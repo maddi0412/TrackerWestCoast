@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "d": "2026-07-22",
+    "j": "US",
+    "w": "House Energy and Commerce",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost"
+    ],
+    "t": "House committee approves Ratepayer Protection Act 52–0 on data center grid costs",
+    "b": "The full Energy and Commerce Committee advanced H.R. 9340, from Reps. Evans and Castor, along with five grid bills. It aims to make large-load customers such as data centers pay for new generation and grid costs, and heads to the House floor.",
+    "s": [
+      [
+        "Broadband Breakfast",
+        "https://broadbandbreakfast.com/house-committee-approves-package-to-address-data-centers-growing-energy-demands/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Shifts grid buildout costs onto large power users like data centers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:13:47.992Z"
+  },
+  {
+    "d": "2026-05-18",
+    "j": "CA",
+    "w": "Sen. Adam Schiff",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost"
+    ],
+    "t": "Schiff introduces bill making AI developers pay full cost of new power",
+    "b": "The Energy Cost Fairness and Reliability Act would require data center developers to bear the cost of new generation and transmission built to serve them, so households don't absorb it through higher electric bills.",
+    "s": [
+      [
+        "E&E News",
+        "https://www.eenews.net/articles/schiff-enters-data-center-fray-with-ratepayer-protection-bill/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Would shift new power and transmission costs onto developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:13:48.210Z"
+  },
+  {
+    "d": "2026-04-29",
+    "j": "US",
+    "w": "House Energy subcommittee",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost"
+    ],
+    "t": "House energy panel holds hearing on AI power demand and ratepayer protection",
+    "b": "The Energy and Commerce energy subcommittee heard from a state regulator, public power and Duke Energy on data center load growth. Its agenda included the Ratepayer Protection Act and a bill on AI data center energy costs for families.",
+    "s": [
+      [
+        "House Energy and Commerce Democrats",
+        "https://democrats-energycommerce.house.gov/committee-activity/hearings/hearing-ai-and-grid-meeting-growing-power-demand-while-protecting"
+      ]
+    ],
+    "im": -1,
+    "iw": "Signals bipartisan interest in making data centers cover grid costs.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:13:48.078Z"
+  }
+]
