@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "d": "2026-10-16",
+    "j": "CA",
+    "w": "San Francisco mayor and supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "San Francisco enacts 45-day citywide data center moratorium",
+    "b": "Mayor Daniel Lurie signed a moratorium the Board of Supervisors had approved unanimously the week before. It pauses data center development while the Planning Department studies impacts and drafts controls.",
+    "s": [
+      [
+        "SF Standard",
+        "https://sfstandard.com/2026/10/16/mayor-lurie-data-center-moratorium/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Short citywide pause in a market with little data center development.",
+    "pl": [
+      [
+        "San Francisco",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.212Z"
+  },
+  {
+    "d": "2026-10-06",
+    "j": "CA",
+    "w": "Imperial County supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "water"
+    ],
+    "t": "Imperial County reinstates data center moratorium after court blocked the first",
+    "b": "Supervisors unanimously adopted a new temporary freeze on data center projects on county land, citing water supply, pending applications and the environmental-review ruling. It responds to a judge's order to stop enforcing the June moratorium. An advisory committee is due to report in January.",
+    "s": [
+      [
+        "KPBS",
+        "https://www.kpbs.org/news/environment/2026/10/08/two-imperial-county-supervisors-press-for-special-election-on-data-centers"
+      ]
+    ],
+    "im": -2,
+    "iw": "New county-wide freeze halts pending data center applications.",
+    "pl": [
+      [
+        "Imperial County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.002Z"
+  },
+  {
+    "d": "2026-10-06",
+    "j": "CA",
+    "w": "Oakland City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "cost",
+      "water"
+    ],
+    "t": "Oakland council unanimously approves 45-day data center moratorium",
+    "b": "The council paused approvals of land-use agreements and entitlements for data centers while staff study energy, water, health and environmental effects. The pause can be extended. It followed a proposal to convert part of a downtown building into a data center.",
+    "s": [
+      [
+        "Oakland North",
+        "https://oaklandnorth.net/2026/10/07/oakland-city-council-approves-45-day-moratorium-on-data-centers/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Short pause on approvals; extension possible but project is small.",
+    "pl": [
+      [
+        "Oakland",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.141Z"
+  },
+  {
+    "d": "2026-10-06",
+    "j": "CA",
+    "w": "Mendocino County supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Mendocino County extends data center moratorium to August 2028",
+    "b": "Supervisors voted 4-1 to extend the pause by about 22 months, the longest state law allows. Facilities under 3 megawatts are exempt, and the pause ends sooner if a permanent ordinance is adopted.",
+    "s": [
+      [
+        "Mendocino Voice",
+        "https://mendovoice.com/2026/10/mendocino-county-supervisors-extend-data-center-moratorium-to-2028-with-a-3-megawatt-exception/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Nearly two-year pause blocks projects over 3 megawatts.",
+    "pl": [
+      [
+        "Mendocino County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.697Z"
+  },
+  {
+    "d": "2026-09-09",
+    "j": "CA",
+    "w": "Imperial County Superior Court",
+    "lv": "local",
+    "k": "action",
+    "st": "denied",
+    "ty": [
+      "permitting",
+      "siting"
+    ],
+    "t": "Court voids Imperial County data center approval, orders environmental review",
+    "b": "A judge ruled the county improperly skipped state environmental review when it approved a lot merger for a roughly 1-million-square-foot data center complex. Development is halted until a CEQA analysis is done. The developer plans to seek a new trial or appeal.",
+    "s": [
+      [
+        "KPBS",
+        "https://www.kpbs.org/news/environment/2026/09/09/court-overturns-approval-of-imperial-county-data-center-orders-environmental-review"
+      ]
+    ],
+    "im": -2,
+    "iw": "Court halts the state's largest proposed project pending environmental review.",
+    "pl": [
+      [
+        "Imperial County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:55.840Z"
+  },
+  {
+    "d": "2026-09-01",
+    "j": "CA",
+    "w": "Mendocino County supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Mendocino County adopts 45-day urgency data center moratorium",
+    "b": "Supervisors approved a 45-day urgency ordinance pausing data center development, set to expire October 16.",
+    "s": [
+      [
+        "Mendocino Voice",
+        "https://mendovoice.com/2026/10/mendocino-county-supervisors-extend-data-center-moratorium-to-2028-with-a-3-megawatt-exception/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Temporary pause in a county with little data center activity.",
+    "pl": [
+      [
+        "Mendocino County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.617Z"
+  },
+  {
+    "d": "2026-09-01",
+    "j": "CA",
+    "w": "Eureka City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "cost",
+      "water"
+    ],
+    "t": "Eureka council unanimously pauses new data centers for 45 days",
+    "b": "The council voted 5-0 for a 45-day moratorium while staff study limits based on water use, electrical load or size. It can be extended up to two years with a four-fifths vote. Members cited rates, water and battery fire risks.",
+    "s": [
+      [
+        "GovTech",
+        "https://insider.govtech.com/california/news/eureka-council-pauses-new-data-centers-as-city-weighs-long-term-rules"
+      ]
+    ],
+    "im": -1,
+    "iw": "Temporary pause that may be extended while rules are drafted.",
+    "pl": [
+      [
+        "Eureka",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.812Z"
+  },
+  {
+    "d": "2026-08-26",
+    "j": "CA",
+    "w": "Coachella City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Coachella adopts permanent citywide data center ban",
+    "b": "The council passed an ordinance prohibiting data centers in the city, citing strain on power, water and noise. It follows a June moratorium and cancellation of a developer agreement for a 240-acre campus. It is the first permanent ban in the Coachella Valley.",
+    "s": [
+      [
+        "KESQ",
+        "https://kesq.com/news/2026/08/25/coachella-city-council-passes-permanent-ban-on-data-centers/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Permanent ban forecloses new projects in the city.",
+    "pl": [
+      [
+        "Coachella",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:26:56.102Z"
+  }
+]
