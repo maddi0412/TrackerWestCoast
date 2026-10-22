@@ -1,1 +1,157 @@
-[]
+[
+  {
+    "d": "2026-08-31",
+    "j": "CA",
+    "w": "California Legislature",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "water",
+      "siting",
+      "permitting"
+    ],
+    "t": "California Legislature sends data center ratepayer and local-review bills to governor",
+    "b": "Lawmakers finished votes on SB 886, paired with AB 2383, to shield other ratepayers from data center grid and generation costs, and on SB 887, which adds local input and environmental review. Both then went to Gov. Newsom.",
+    "s": [
+      [
+        "Sen. Steve Padilla",
+        "https://sd18.senate.ca.gov/news/nation-leading-data-center-regulations-head-governors-desk"
+      ]
+    ],
+    "im": -1,
+    "iw": "Cost-shifting rules and added review raise developers' costs and timelines.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:19:40.961Z"
+  },
+  {
+    "d": "2026-07-16",
+    "j": "CA",
+    "w": "PPIC statewide survey",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "siting"
+    ],
+    "t": "PPIC poll: about 73% of Californians oppose a data center in their community",
+    "b": "The Public Policy Institute of California survey of 1,578 adults found broad opposition across parties, strongest in the Inland Empire and Los Angeles. About 63% said they worry about environmental effects.",
+    "s": [
+      [
+        "CalMatters",
+        "https://calmatters.org/newsletter/data-center-ppic-survey/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Strong public opposition raises political and permitting risk for projects.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:19:44.966Z"
+  },
+  {
+    "d": "2026-01-20",
+    "j": "CA",
+    "w": "CAISO",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "permitting"
+    ],
+    "t": "CAISO issues paper on how to plan for and connect data center loads",
+    "b": "The grid operator published an issue paper on large-load planning, citing a state forecast of 1.8 GW of added data center load by 2030. It covers cost allocation and faster service options but proposes no rules yet.",
+    "s": [
+      [
+        "Utility Dive",
+        "https://www.utilitydive.com/news/caiso-california-grid-data-centers-transmission-large-loads/812440/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Early-stage process; could speed or complicate interconnection later.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:19:44.910Z",
+    "linkCheck": "blocked-by-site"
+  },
+  {
+    "d": "2025-10-30",
+    "j": "CA",
+    "w": "California PUC",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost",
+      "siting"
+    ],
+    "t": "CPUC approves PG&E–STACK deal for 90 MW data center, capping refunds",
+    "b": "Resolution E-5420 approved interconnection agreements for a 90 MW data center and limited STACK's annual refund to 75% of transmission revenue PG&E actually collects. The commission said the exceptional-case ruling is not binding precedent.",
+    "s": [
+      [
+        "Downey Brand",
+        "https://www.downeybrand.com/legal-alerts/california-public-utilities-commission-stretches-out-the-reimbursement-period-for-data-centers-energization-costs-to-reduce-ratepayer-risk/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Project approved, but refunds are slower and tied to actual revenue.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:19:44.855Z"
+  },
+  {
+    "d": "2025-10-11",
+    "j": "CA",
+    "w": "Gov. Newsom",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost"
+    ],
+    "t": "Newsom signs SB 57 ordering CPUC study of data center cost shifts",
+    "b": "SB 57 directs the Public Utilities Commission to assess whether fast-growing data center demand could move grid costs onto other customers, with a public report due by January 1, 2027. It sunsets in 2031 unless renewed.",
+    "s": [
+      [
+        "Hanson Bridgett",
+        "https://www.hansonbridgett.com/publications/251201-2021-vetoes_data_center_law"
+      ],
+      [
+        "Bisnow",
+        "https://www.bisnow.com/news/national/data-center-community-relations/californias-newsom-issues-split-decision-on-california-data-center-bills-131390"
+      ]
+    ],
+    "im": -1,
+    "iw": "Study only, but signals future ratepayer-protection rules for large loads.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:19:41.373Z"
+  },
+  {
+    "d": "2025-07-24",
+    "j": "CA",
+    "w": "California PUC",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost",
+      "permitting"
+    ],
+    "t": "CPUC approves interim PG&E rule speeding transmission-level hookups for data centers",
+    "b": "The commission approved part of PG&E's Electric Rule 30 as an interim pathway for high-energy users such as AI data centers, available only to applicants who prepay transmission work. Refund terms were left to a later decision.",
+    "s": [
+      [
+        "California Public Utilities Commission",
+        "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-streamlines-electric-grid-connections-for-high-energy-users-like-data-centers-and-ev-chargers"
+      ]
+    ],
+    "im": 1,
+    "iw": "Faster grid connection, though developers must prepay transmission costs.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:19:41.467Z"
+  }
+]
