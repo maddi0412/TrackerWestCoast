@@ -1,1 +1,334 @@
-[]
+[
+  {
+    "d": "2026-08-21",
+    "j": "NV",
+    "w": "Pyramid Lake Paiute Tribal Council",
+    "lv": "tribal",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "moratorium",
+      "water",
+      "siting"
+    ],
+    "t": "Pyramid Lake Paiute Tribe adopts permanent data center moratorium on homelands",
+    "b": "The Tribal Council passed a permanent moratorium on data centers on Pyramid Lake Paiute homelands. The chairman has cited water for endangered fish and limited grid capacity. Water-use concerns focus on upstream industrial development along the Truckee River.",
+    "s": [
+      [
+        "KUNR",
+        "https://www.kunr.org/energy-and-environment/2026-09-02/northern-nevada-tribes-speak-out-against-data-centers"
+      ],
+      [
+        "Boise State Public Radio",
+        "https://www.boisestatepublicradio.org/news/2026-09-14/nevada-tribes-and-the-fight-against-data-centers"
+      ]
+    ],
+    "im": -1,
+    "iw": "Closes tribal lands to siting; no known projects were planned there.",
+    "pl": [
+      [
+        "Pyramid Lake Paiute Tribe",
+        "tribal"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:13.631Z"
+  },
+  {
+    "d": "2026-08-18",
+    "j": "NV",
+    "w": "Nye County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "moratorium",
+      "water",
+      "siting"
+    ],
+    "t": "Nye County bans new data centers in Pahrump Valley's Basin 162",
+    "b": "Commissioners voted unanimously to amend county code to prohibit data center development in the Pahrump Valley and its over-appropriated groundwater basin. A separate countywide rules bill moved to public hearing, and a proposed special election on the ban died without a motion.",
+    "s": [
+      [
+        "Pahrump Valley Times",
+        "https://pvtimes.com/news/data-centers-banned-in-pahrump-189671/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Outright ban blocks proposed Pahrump campus and signals water-based limits.",
+    "pl": [
+      [
+        "Nye County",
+        "county"
+      ],
+      [
+        "Pahrump",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:07.806Z"
+  },
+  {
+    "d": "2026-08-05",
+    "j": "NV",
+    "w": "Lyon County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting",
+      "water"
+    ],
+    "t": "Lyon County rezones land for 1,000-megawatt Monarch data center",
+    "b": "Commissioners voted 3-1, with one recusal, to approve planned unit development zoning for Copia Power's Monarch data center and gas-fired plant near Yerington. State permits are still needed. Two tribes and the Sierra Club plan to challenge it.",
+    "s": [
+      [
+        "KOLO 8 News Now",
+        "https://www.kolotv.com/2026/08/07/lyon-county-commissioners-approve-monarch-data-center/"
+      ]
+    ],
+    "im": 2,
+    "iw": "Major local zoning approval for a very large campus.",
+    "pl": [
+      [
+        "Lyon County",
+        "county"
+      ],
+      [
+        "Yerington",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:12.559Z"
+  },
+  {
+    "d": "2026-07-22",
+    "j": "NV",
+    "w": "White Pine County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "White Pine County adopts 180-day data center application pause",
+    "b": "Commissioners approved Resolution 2026-18, which stops the county from accepting, processing or approving land-use applications for data centers for 180 days. The pause can be renewed while staff write zoning standards for the industry.",
+    "s": [
+      [
+        "Ely Times",
+        "https://elynews.com/2026/07/30/joint-white-pine-county-commission-road-commission-and-liquor-board-meeting/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Pause blocks new applications for six months, renewable.",
+    "pl": [
+      [
+        "White Pine County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:12.191Z"
+  },
+  {
+    "d": "2026-07-21",
+    "j": "NV",
+    "w": "Henderson City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "failed",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Henderson declines 180-day data center moratorium, opts for development agreements",
+    "b": "After about two hours of comment, the council took no action on a proposed 180-day pause. Future data centers will instead need individually negotiated development agreements while the city considers code changes. No applications were pending.",
+    "s": [
+      [
+        "KSNV News 3 Las Vegas",
+        "https://news3lv.com/news/local/no-data-center-moratorium-in-henderson-what-happens-next"
+      ],
+      [
+        "The Nevada Independent",
+        "https://thenevadaindependent.com/article/henderson-rejects-data-center-moratorium-instead-exploring-code-changes"
+      ]
+    ],
+    "im": 0,
+    "iw": "Pause avoided, but case-by-case agreements add negotiation and conditions.",
+    "pl": [
+      [
+        "Henderson",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:13.004Z"
+  },
+  {
+    "d": "2026-07-14",
+    "j": "NV",
+    "w": "Lyon County Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "water"
+    ],
+    "t": "Lyon County planners advance Monarch data center rezoning on 4-3 vote",
+    "b": "The planning commission voted 4-3 to advance Copia's Monarch data center, projected to need 1,000 megawatts and 800 acre-feet of water. Copia said it will not seek tax abatements. The project went to county commissioners next.",
+    "s": [
+      [
+        "KOLO 8 News Now",
+        "https://www.kolotv.com/2026/07/15/lyon-county-planning-commission-approves-monarch-data-center/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Narrow planning approval moves a large project forward.",
+    "pl": [
+      [
+        "Lyon County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:12.741Z"
+  },
+  {
+    "d": "2026-07-06",
+    "j": "NV",
+    "w": "Humboldt County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Humboldt County, Nevada, pauses new data center applications until July 2027",
+    "b": "Commissioners adopted a temporary moratorium on data center applications in unincorporated areas, running through July 13, 2027 unless extended. Winnemucca city limits are excluded. The county will update its master plan and zoning in the meantime.",
+    "s": [
+      [
+        "The Nevada Independent",
+        "https://thenevadaindependent.com/article/how-has-your-city-or-county-regulated-data-centers-heres-the-latest-in-nevada"
+      ],
+      [
+        "Great Basin Sun",
+        "https://www.greatbasinsun.com/article/1057,nevada-s-data-center-debate-is-shifting-to-the-deal"
+      ]
+    ],
+    "im": -2,
+    "iw": "Year-long pause stalls projects such as a proposed Paradise Valley campus.",
+    "pl": [
+      [
+        "Humboldt County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:08.576Z"
+  },
+  {
+    "d": "2026-06-17",
+    "j": "NV",
+    "w": "Clark County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "water"
+    ],
+    "t": "Clark County approves Switch's closed-loop data center building despite opposition",
+    "b": "Commissioners approved Switch's LAS 19 data center in Enterprise, a roughly 56,000-square-foot building using closed-loop cooling that Switch says needs almost no daily water. Residents opposed it on environmental and grid grounds.",
+    "s": [
+      [
+        "FOX5 Las Vegas",
+        "https://www.fox5vegas.com/2026/06/18/clark-county-approves-switch-data-center-project-southwest-valley-after-public-opposition/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Approval shows low-water designs can still win county support.",
+    "pl": [
+      [
+        "Clark County",
+        "county"
+      ],
+      [
+        "Enterprise",
+        "township"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:13.183Z"
+  },
+  {
+    "d": "2026-06-01",
+    "j": "NV",
+    "w": "Reno City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "Reno extends data center pause through August 2027",
+    "b": "The council voted 6-1 to lengthen its pause on special use permits for new data centers to Aug. 31, 2027, or until regulations are adopted. Already-approved projects are unaffected. Staff will draft rules, and the council may lift the pause early.",
+    "s": [
+      [
+        "KOLO 8 News Now",
+        "https://www.kolotv.com/2026/06/01/packed-reno-city-council-meeting-centers-data-center-moratorium-possible-extension/"
+      ],
+      [
+        "KUNR",
+        "https://www.kunr.org/local-stories/2026-06-05/reno-city-council-extends-data-center-moratorium-into-2027"
+      ]
+    ],
+    "im": -2,
+    "iw": "Fourteen-month pause blocks new Reno data center approvals.",
+    "pl": [
+      [
+        "Reno",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:07.952Z"
+  },
+  {
+    "d": "2026-05-14",
+    "j": "NV",
+    "w": "Reno City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Reno council adopts first 30-day data center moratorium in Nevada",
+    "b": "Reno's council voted 6-1 for an initial 30-day pause on new data center approvals while it began drafting regulations. Projects already approved were exempt. It was later extended into 2027.",
+    "s": [
+      [
+        "KOLO 8 News Now",
+        "https://www.kolotv.com/2026/06/01/packed-reno-city-council-meeting-centers-data-center-moratorium-possible-extension/"
+      ]
+    ],
+    "im": -2,
+    "iw": "First Nevada local pause halts new Reno applications.",
+    "pl": [
+      [
+        "Reno",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:32:08.430Z"
+  }
+]
