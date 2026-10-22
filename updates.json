@@ -1,1 +1,129 @@
-[]
+[
+  {
+    "d": "2026-09-24",
+    "j": "CA",
+    "w": "UC Berkeley Citrin Center/POLITICO",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "siting"
+    ],
+    "t": "Berkeley-POLITICO poll: 51% of California voters oppose new data centers",
+    "b": "A Sept. 8-14 survey of 2,418 registered voters found 51% opposed to new data centers statewide and 61% opposed in their own community. Only 3% named data centers and AI the top issue, and few want the state to hold more authority.",
+    "s": [
+      [
+        "Yahoo News (POLITICO)",
+        "https://www.yahoo.com/news/politics/articles/california-voters-oppose-data-centers-115500706.html"
+      ]
+    ],
+    "im": -1,
+    "iw": "Majority opposition, though low issue salience limits near-term political pressure.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:35:07.745Z"
+  },
+  {
+    "d": "2026-08-28",
+    "j": "CA",
+    "w": "Tech and utility lobbyists",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "cost",
+      "disclosure"
+    ],
+    "t": "Big Tech and PG&E ramp up Sacramento lobbying on data center bills",
+    "b": "CalMatters reported heavy 2026 lobbying on data center bills: PG&E spent $2.86 million in one quarter, Amazon over $500,000 in six months across 33 bills, and the Data Center Coalition opposed nearly every regulatory bill.",
+    "s": [
+      [
+        "CalMatters",
+        "https://calmatters.org/economy/technology/2026/08/california-data-center-backlash-big-tech-lobbying/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Industry is actively contesting regulation, with uncertain effect on outcomes.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:35:08.012Z"
+  },
+  {
+    "d": "2026-07-16",
+    "j": "CA",
+    "w": "Public Policy Institute of California",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "siting"
+    ],
+    "t": "PPIC survey: 73% of Californians oppose data centers in their communities",
+    "b": "PPIC's July 2026 environment survey of 1,578 adults found 73% oppose building data centers in their communities, with majorities of both parties opposed, and 63% worried about environmental effects.",
+    "s": [
+      [
+        "CalMatters",
+        "https://calmatters.org/newsletter/data-center-ppic-survey/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Broad bipartisan local opposition raises political risk for new projects.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:35:07.571Z"
+  },
+  {
+    "d": "2026-06-16",
+    "j": "CA",
+    "w": "Net-Zero California and TURN",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "cost",
+      "siting"
+    ],
+    "t": "Advocacy poll: 70% oppose local data centers, but guardrails win majority support",
+    "b": "A poll by FM3 for Net-Zero California and TURN, fielded May 17-24 among 850 likely voters, found 70% opposed to local data centers. Support reached 63% with protections against bill increases and environmental harm; 74% want standards in law.",
+    "s": [
+      [
+        "Net-Zero California",
+        "https://www.netzerocalifornia.org/blog/new-poll-70-of-california-voters-oppose-data-centers"
+      ]
+    ],
+    "im": 0,
+    "iw": "Opposition is strong, yet voters accept projects meeting cost and environmental conditions.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T15:35:07.635Z"
+  },
+  {
+    "d": "2026-06-15",
+    "j": "CA",
+    "w": "Pittsburg residents",
+    "lv": "local",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "siting"
+    ],
+    "t": "Over 300 Pittsburg residents urge council to block approved data center",
+    "b": "More than 300 people attended a Pittsburg City Council meeting to oppose a data center on the former Delta View golf course, approved in 2024. Speakers asked for a ban or two-year pause, and a petition drew about 13,000 signatures in a week.",
+    "s": [
+      [
+        "ABC7 San Francisco",
+        "https://abc7news.com/post/hundreds-show-pittsburg-city-council-meeting-opposing-data-center-development/19313397/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Organized local opposition threatens an already-approved project.",
+    "pl": [
+      [
+        "Pittsburg",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T15:35:07.301Z"
+  }
+]
