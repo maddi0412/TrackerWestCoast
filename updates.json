@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "d": "2026-10-06",
+    "j": "CA",
+    "w": "Imperial County Supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "failed",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Imperial County repeals data center moratorium after court orders it set aside",
+    "b": "Following a Superior Court writ in a developer's lawsuit, the board repealed Ordinances 1616 and 1618, which had created and extended the pause. The county says data center applications remain subject to ordinary land use rules.",
+    "s": [
+      [
+        "Imperial County",
+        "https://imperialcounty.org/2026/10/moratoriumordinance2026/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Court-ordered end of a pause that blocked approvals.",
+    "pl": [
+      [
+        "Imperial County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T14:49:46.854Z"
+  },
+  {
+    "d": "2026-06-16",
+    "j": "CA",
+    "w": "Imperial County Supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Imperial County adopts urgency moratorium on data center approvals",
+    "b": "Supervisors voted unanimously for a 45-day pause on final approvals of data center facilities in unincorporated areas and set up an advisory committee. The pause could be extended while the committee reports, due by January 2027.",
+    "s": [
+      [
+        "inewsource",
+        "https://inewsource.org/2026/06/16/imperial-county-approves-data-center-moratorium/"
+      ],
+      [
+        "Imperial County",
+        "https://imperialcounty.org/2026/08/icdcmoratorium2026/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Pauses approvals for pending and future projects.",
+    "pl": [
+      [
+        "Imperial County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T14:49:46.167Z"
+  },
+  {
+    "d": "2025-10-11",
+    "j": "CA",
+    "w": "Gov. Newsom",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost"
+    ],
+    "t": "Newsom signs narrowed bill ordering study of data center costs to ratepayers",
+    "b": "SB 57 directs the CPUC to assess whether data center load shifts costs onto other customers, with findings due by 2027. Earlier language creating special data center rate classes was removed after utility and industry opposition.",
+    "s": [
+      [
+        "Sen. Steve Padilla",
+        "https://sd18.senate.ca.gov/news/legislation-protect-california-ratepayers-paying-data-centers-energy-costs-signed-law"
+      ],
+      [
+        "Bisnow",
+        "https://www.bisnow.com/news/national/data-center-community-relations/californias-newsom-issues-split-decision-on-california-data-center-bills-131390"
+      ]
+    ],
+    "im": 0,
+    "iw": "Study only; stronger rate-class language was dropped.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T14:49:43.188Z"
+  },
+  {
+    "d": "2025-07-24",
+    "j": "CA",
+    "w": "CPUC",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "permitting",
+      "cost"
+    ],
+    "t": "CPUC approves interim PG&E rule speeding transmission hookups for large loads",
+    "b": "The commission partly approved an interim Electric Rule 30 for PG&E territory, giving data centers and other big users a faster transmission-level connection if they pay upfront for required infrastructure. Refund terms were left for a later decision.",
+    "s": [
+      [
+        "CPUC",
+        "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-streamlines-electric-grid-connections-for-high-energy-users-like-data-centers-and-ev-chargers"
+      ]
+    ],
+    "im": 1,
+    "iw": "Faster interconnection, though developers front the transmission costs.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T14:49:43.547Z"
+  }
+]
