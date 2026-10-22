@@ -1,1 +1,111 @@
-[]
+[
+  {
+    "d": "2026-09-30",
+    "j": "NV",
+    "w": "Sen. Cortez Masto (D)",
+    "lv": "federal",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "cost",
+      "disclosure"
+    ],
+    "t": "Cortez Masto votes against Ratepayer Protection Act, backs stricter alternatives",
+    "b": "Nevada's senator said the bill relies on voluntary language. She cosponsors the GRID Savings Act, making large users pay for grid connections, and a bill requiring data centers to disclose energy and water use.",
+    "s": [
+      [
+        "Sen. Cortez Masto",
+        "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-vote-against-h-r-9340/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Backs mandatory cost and disclosure rules for data centers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T23:24:10.194Z"
+  },
+  {
+    "d": "2026-08-18",
+    "j": "NV",
+    "w": "Gov. Lombardo",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "tax",
+      "siting"
+    ],
+    "t": "Lombardo says solar tax break can't transfer to Boulder City data center",
+    "b": "Responding to a letter from Rep. Dina Titus, the governor said the 2024 solar abatement cannot be moved to a data center and that state law bars stacking it with a data center abatement. He said federal-land questions need review.",
+    "s": [
+      [
+        "Nevada Governor's Office",
+        "https://www.gov.nv.gov/press-releases/governor-lombardo-responds-to-rep.-titus-letter-on-boulder-city-data-center"
+      ]
+    ],
+    "im": 0,
+    "iw": "Clarifies tax-break limits without blocking the project.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T23:24:10.032Z"
+  },
+  {
+    "d": "2026-07-23",
+    "j": "NV",
+    "w": "Boulder City",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "Boulder City appeals BLM's federal data center approval",
+    "b": "The city asked the Interior Board of Land Appeals to review the approval. It argues BLM skipped consultation with the city, avoided a fresh environmental review, and that a data center does not fit right-of-way rules.",
+    "s": [
+      [
+        "Utah Public Radio",
+        "https://www.upr.org/politics/2026-08-04/nevada-data-center-blm-appeal"
+      ]
+    ],
+    "im": -1,
+    "iw": "Appeal puts the first federal-land data center approval at legal risk.",
+    "pl": [
+      [
+        "Boulder City",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:24:09.936Z"
+  },
+  {
+    "d": "2026-06-26",
+    "j": "NV",
+    "w": "Bureau of Land Management",
+    "lv": "federal",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "BLM approves a data center on federal land near Boulder City",
+    "b": "BLM amended an existing solar right-of-way to allow a data center on 88.5 acres of public land in the Eldorado Valley. It cited the July 2025 executive order on faster data center permitting. Boulder City says it was not consulted.",
+    "s": [
+      [
+        "Bureau of Land Management",
+        "https://www.blm.gov/announcement/approved-decision-townsite-data-center"
+      ],
+      [
+        "Utah Public Radio",
+        "https://www.upr.org/mountain-west-news-bureau/2026-07-22/nevada-data-center-federal-land-blm"
+      ]
+    ],
+    "im": 2,
+    "iw": "Federal approval lets developer bypass a city that had rejected the project.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T23:24:09.633Z"
+  }
+]
