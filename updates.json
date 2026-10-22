@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "d": "2026-09-18",
+    "j": "NV",
+    "w": "Gov. Lombardo",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "tax",
+      "cost",
+      "water",
+      "siting"
+    ],
+    "t": "Lombardo order sets conditions on new data center tax abatements",
+    "b": "Executive Order 2026-005 bars partial abatements unless developers pay the local school support tax in full and sign a binding community commitment covering water and electricity costs. It does not apply to applications already approved.",
+    "s": [
+      [
+        "Nevada Governor's Office",
+        "https://www.gov.nv.gov/press-releases/governor-joe-lombardo-signs-executive-order-placing-guardrails-on-data-center-development-restoring-education-funding/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Raises tax and compliance costs for new abatement applicants.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T23:28:02.782Z"
+  },
+  {
+    "d": "2026-08-19",
+    "j": "NV",
+    "w": "Aaron Ford campaign",
+    "lv": "state",
+    "k": "politics",
+    "st": "campaign",
+    "ty": [
+      "tax",
+      "water",
+      "siting"
+    ],
+    "t": "Ford pledges to pause new data center tax breaks if elected governor",
+    "b": "The Democratic nominee's platform calls for pausing new abatements while the state audits existing ones, banning evaporative cooling statewide, requiring public hearings on each project, and opposing data centers on federal land.",
+    "s": [
+      [
+        "The Nevada Independent",
+        "https://thenevadaindependent.com/article/nevada-governor-candidate-aaron-ford-pledges-to-pause-new-data-center-tax-breaks"
+      ]
+    ],
+    "im": -1,
+    "iw": "A possible abatement pause and cooling limits would raise developer costs.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T23:28:03.003Z"
+  }
+]
