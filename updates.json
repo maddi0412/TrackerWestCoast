@@ -1,1 +1,188 @@
-[]
+[
+  {
+    "d": "2026-09-18",
+    "j": "NV",
+    "w": "Gov. Lombardo",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "tax",
+      "cost",
+      "water"
+    ],
+    "t": "Nevada governor conditions new data center tax breaks on full school taxes and community pledge",
+    "b": "Executive Order 2026-005 bars abatement of school support taxes for new data center applicants, who must sign a binding community commitment, meet local water standards and cover their power costs. It applies only to new applications.",
+    "s": [
+      [
+        "Nevada Governor's Office",
+        "https://www.gov.nv.gov/press-releases/governor-joe-lombardo-signs-executive-order-placing-guardrails-on-data-center-development-restoring-education-funding/"
+      ],
+      [
+        "The Nevada Independent",
+        "https://thenevadaindependent.com/article/lombardo-curtails-nevada-data-center-tax-break-program-in-executive-order"
+      ]
+    ],
+    "im": -1,
+    "iw": "Higher tax and compliance costs for new projects seeking state abatements.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-22T23:16:49.854Z"
+  },
+  {
+    "d": "2026-08-18",
+    "j": "NV",
+    "w": "Nye County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "moratorium",
+      "water",
+      "siting"
+    ],
+    "t": "Nye County bans data centers in Pahrump Valley",
+    "b": "Commissioners voted 5-0 to prohibit data center development in the Pahrump Valley and Basin 162. A separate bill setting special use permit rules for the rest of the county was scheduled for a public hearing.",
+    "s": [
+      [
+        "Pahrump Valley Times",
+        "https://pvtimes.com/news/data-centers-banned-in-pahrump-189671/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Outright ban removes the Pahrump Valley as a siting option.",
+    "pl": [
+      [
+        "Nye County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:16:50.042Z"
+  },
+  {
+    "d": "2026-07-21",
+    "j": "NV",
+    "w": "Henderson City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "failed",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Henderson council sets aside 180-day data center pause, opts for stricter code",
+    "b": "The council did not adopt a proposed 180-day moratorium on new data center permits. City staff were directed to strengthen development standards and require individually negotiated development agreements instead.",
+    "s": [
+      [
+        "FOX5 Vegas",
+        "https://www.fox5vegas.com/video/2026/07/22/city-henderson-looking-existing-codes-tables-moratorium-vote-data-centers/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Pause avoided, though stricter rules and agreements are coming.",
+    "pl": [
+      [
+        "Henderson",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:16:51.175Z"
+  },
+  {
+    "d": "2026-07-06",
+    "j": "NV",
+    "w": "Humboldt County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Humboldt County, Nevada pauses new data center applications until July 2027",
+    "b": "Commissioners unanimously adopted a temporary moratorium on accepting and approving data center applications in unincorporated areas while the county updates its master plan and zoning. Winnemucca city limits are not covered, and no projects were pending.",
+    "s": [
+      [
+        "Humboldt Sun",
+        "https://www.thehumboldtsun.com/article/619,commission-approves-temporary-data-center-moratorium-through-july-2027"
+      ],
+      [
+        "Great Basin Sun",
+        "https://www.greatbasinsun.com/article/954,nevada-communities-weigh-data-center-development"
+      ]
+    ],
+    "im": -2,
+    "iw": "Pause blocks new applications in unincorporated county for a year.",
+    "pl": [
+      [
+        "Humboldt County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:16:50.126Z"
+  },
+  {
+    "d": "2026-06-02",
+    "j": "NV",
+    "w": "Nye County Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "water"
+    ],
+    "t": "Nye County adopts temporary data center moratorium after water district request",
+    "b": "Commissioners approved a countywide pause on data centers until regulations are updated, following a request from the county water district. Staff expected about 90 days to draft an ordinance, and some towns may opt out of an extension.",
+    "s": [
+      [
+        "NVBEX",
+        "https://nevbex.com/2026/06/11/nye-county-data-center-moratorium-approved/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Countywide pause halts new data center proposals until rules exist.",
+    "pl": [
+      [
+        "Nye County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:16:50.707Z"
+  },
+  {
+    "d": "2026-06-01",
+    "j": "NV",
+    "w": "Reno City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "Reno extends data center permit pause through August 2027",
+    "b": "The council voted 6-1 to extend a pause on special use permits for new data centers until Aug. 31, 2027, or until new regulations take effect. Reno is described as the first Nevada city to do so.",
+    "s": [
+      [
+        "KUNR",
+        "https://www.kunr.org/local-stories/2026-06-05/reno-city-council-extends-data-center-moratorium-into-2027"
+      ]
+    ],
+    "im": -2,
+    "iw": "Pause on new data center permits for about 15 months.",
+    "pl": [
+      [
+        "Reno",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-22T23:16:51.115Z"
+  }
+]
