@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "d": "2026-10-15",
+    "j": "HI",
+    "w": "Hawaii County Leeward Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Leeward commission backs Hawaii County bill to bar data centers",
+    "b": "The Leeward Planning Commission voted unanimously to recommend Bill 170, which would leave data centers off the list of permitted uses. It also urged exploring a moratorium while rules are developed. No data center proposals currently exist on the island.",
+    "s": [
+      [
+        "Hawaii Tribune-Herald",
+        "https://www.hawaiitribune-herald.com/2026/10/16/hawaii-news/leeward-planning-commission-oks-bill-aimed-at-banning-data-centers/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Recommended zoning change would effectively bar data centers island-wide.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:44:03.163Z"
+  },
+  {
+    "d": "2026-10-01",
+    "j": "HI",
+    "w": "Hawaii County Windward Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting"
+    ],
+    "t": "Windward commission recommends against Hawaii County data center ban bill",
+    "b": "The Windward Planning Commission voted 5-1 to send an unfavorable recommendation on Bill 170. Members backed its intent but said the data center definition was too vague and might leave loopholes. The bill was deferred from September 3.",
+    "s": [
+      [
+        "Hawaii Tribune-Herald",
+        "https://www.hawaiitribune-herald.com/2026/10/02/hawaii-news/data-centers-debate-continues-at-county-level/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Negative recommendation slows a bill that would bar data centers.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:44:03.362Z"
+  },
+  {
+    "d": "2026-07-07",
+    "j": "HI",
+    "w": "Hawaii County Council committee",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "moratorium"
+    ],
+    "t": "Hawaii County Council committee advances bill to bar industrial-scale data centers",
+    "b": "A Council committee voted 8-0 to send Bill 170, by Councilwoman Heather Kimball, to the planning director and planning commissions. It would define data centers separately from data processing facilities, so they are not permitted. Testifiers cited water, power costs and noise.",
+    "s": [
+      [
+        "Hawaii Tribune-Herald",
+        "https://www.hawaiitribune-herald.com/2026/07/08/hawaii-news/legislation-targets-data-centers-in-hawaii-county/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Proposed zoning change would exclude industrial-scale data centers from the county.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:44:03.465Z"
+  }
+]
