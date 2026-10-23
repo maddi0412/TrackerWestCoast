@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "d": "2026-07-21",
+    "j": "US",
+    "w": "House Energy and Commerce Committee",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost"
+    ],
+    "t": "House Energy committee advances Ratepayer Protection Act 52–0 in markup",
+    "b": "The full committee approved H.R. 9340, from Reps. Evans and Castor, which targets grid costs that rise with data center growth. Five other grid bills advanced with it. The measures move to the House floor.",
+    "s": [
+      [
+        "RTO Insider",
+        "https://www.rtoinsider.com/137133-house-energy-commerce-advances-bills-dealing-with-data-centers-demand/"
+      ],
+      [
+        "Broadband Breakfast",
+        "https://broadbandbreakfast.com/house-committee-approves-package-to-address-data-centers-growing-energy-demands/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Bipartisan push to make large loads cover grid costs raises developer expenses.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:21:10.871Z"
+  },
+  {
+    "d": "2026-04-29",
+    "j": "US",
+    "w": "House Energy Subcommittee",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "permitting"
+    ],
+    "t": "House Energy subcommittee holds hearing on AI, the grid and ratepayers",
+    "b": "Chairman Latta's subcommittee examined meeting rising power demand from AI while shielding ratepayers. Latta argued new data center connections can lower costs through grid upgrades and tax revenue. A Duke Energy witness discussed grid technologies and permitting reform.",
+    "s": [
+      [
+        "House Energy and Commerce Committee",
+        "https://energycommerce.house.gov/posts/energy-subcommittee-holds-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers"
+      ]
+    ],
+    "im": 1,
+    "iw": "Committee leaders framed data center growth as beneficial, favoring faster grid connection.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:21:11.445Z"
+  },
+  {
+    "d": "2025-07-24",
+    "j": "US",
+    "w": "U.S. Department of Energy",
+    "lv": "federal",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "DOE picks four federal sites for private AI data centers",
+    "b": "DOE selected Idaho National Laboratory, Oak Ridge Reservation, Paducah and Savannah River Site for private AI data center and power projects on federal land. Solicitations for partners were expected in the following months.",
+    "s": [
+      [
+        "U.S. Department of Energy",
+        "https://www.energy.gov/articles/doe-announces-site-selection-ai-data-center-and-energy-infrastructure-development-federal"
+      ]
+    ],
+    "im": 2,
+    "iw": "Federal land opens for data centers with co-located power and faster siting.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:21:11.523Z"
+  }
+]
