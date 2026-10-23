@@ -1,1 +1,111 @@
-[]
+[
+  {
+    "d": "2026-10-22",
+    "j": "AK",
+    "w": "Fairbanks borough mayor",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Fairbanks borough mayor proposes temporary pause on large data center land-use permits",
+    "b": "Mayor Grier Hopkins proposed a temporary moratorium on the borough issuing land use permits for large data centers. Details on scope and any assembly vote were not available.",
+    "s": [
+      [
+        "KTVF",
+        "https://www.webcenterfairbanks.com/video/2026/10/23/fairbanks-borough-mayor-proposes-temporary-data-center-moratorium/"
+      ]
+    ],
+    "im": -2,
+    "iw": "A permit pause would block new large projects locally.",
+    "pl": [
+      [
+        "Fairbanks North Star Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:35:51.487Z"
+  },
+  {
+    "d": "2026-10-14",
+    "j": "AK",
+    "w": "Interior Secretary Burgum",
+    "lv": "federal",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "permitting"
+    ],
+    "t": "Interior Secretary Burgum promotes Alaska data centers during Fairbanks visit",
+    "b": "Speaking to the Fairbanks Chamber of Commerce, Burgum pitched Alaska as a site for AI data centers, blamed permitting for slowing development, and said he hopes Congress eases environmental rules after the midterms.",
+    "s": [
+      [
+        "Alaska Public Media",
+        "https://alaskapublic.org/news/alaska-desk/2026-10-15/in-fairbanks-interior-secretary-burgum-touts-deregulation-and-data-centers"
+      ]
+    ],
+    "im": 1,
+    "iw": "Federal official backs data centers and faster permitting.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:35:51.399Z"
+  },
+  {
+    "d": "2026-08-27",
+    "j": "AK",
+    "w": "Fairbanks North Star Borough Assembly",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Fairbanks borough assembly asks state for data center moratorium in 2027 priorities",
+    "b": "The assembly adopted its 2027 state and federal legislative priorities, including a request for a moratorium on data center development until standards address power, water, noise and other community concerns.",
+    "s": [
+      [
+        "KUAC",
+        "https://fm.kuac.org/2026-08-31/in-legislative-priorities-fairbanks-north-star-borough-assembly-doubles-up-on-ai-data-center-moratorium-request"
+      ]
+    ],
+    "im": -1,
+    "iw": "Request only; needs legislative action but signals local opposition.",
+    "pl": [
+      [
+        "Fairbanks North Star Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:35:51.313Z"
+  },
+  {
+    "d": "2026-05-12",
+    "j": "AK",
+    "w": "Alaska Division of Oil and Gas",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "Alaska issues preliminary approval for 50-year lease for North Slope data center",
+    "b": "The state found a lease to Stak Energy for a roughly $500 million, square-mile data center off the Dalton Highway to be in its best interest. The site could eventually generate up to three gigawatts for its own use. Public comment ran through June 15.",
+    "s": [
+      [
+        "Anchorage Daily News",
+        "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/"
+      ]
+    ],
+    "im": 2,
+    "iw": "State preliminarily grants long-term land access for a very large project.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:35:51.051Z"
+  }
+]
