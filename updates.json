@@ -1,1 +1,166 @@
-[]
+[
+  {
+    "d": "2026-10-07",
+    "j": "NV",
+    "w": "Noble Predictive Insights",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "water",
+      "cost"
+    ],
+    "t": "Poll: 57% of Nevada voters oppose more large data centers",
+    "b": "A September 22-26 survey of 800 registered voters found 57% opposed additional large data centers and 34% supported them. Water-supply worry was widespread at 83%, and 59% preferred limiting data centers over expanding them.",
+    "s": [
+      [
+        "Noble Predictive Insights",
+        "https://www.noblepredictiveinsights.com/post/nevada-voters-want-limits-on-data-center-growth"
+      ]
+    ],
+    "im": -1,
+    "iw": "Majority opposition raises political risk for new projects.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:11:21.885Z"
+  },
+  {
+    "d": "2026-08-19",
+    "j": "NV",
+    "w": "Aaron Ford (governor candidate)",
+    "lv": "state",
+    "k": "politics",
+    "st": "campaign",
+    "ty": [
+      "tax",
+      "cost",
+      "water"
+    ],
+    "t": "Ford pledges to pause new data center tax breaks if elected governor",
+    "b": "Democratic nominee and Attorney General Aaron Ford said he would halt new abatements until an audit shows recipients met their commitments. He also wants data centers to pay their own power and grid costs and bring their own cooling water.",
+    "s": [
+      [
+        "The Nevadan",
+        "https://thenevadannews.com/news/aaron-ford-pledges-pause-data-center-tax-breaks-if-elected/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Campaign pledge to pause abatements and add cost obligations for developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:11:21.213Z"
+  },
+  {
+    "d": "2026-08-17",
+    "j": "NV",
+    "w": "Gov. Joe Lombardo",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "tax"
+    ],
+    "t": "Lombardo answers Titus, offers no pause on data center abatements",
+    "b": "Replying to Rep. Titus's letter, the governor's office said the renewable-energy abatement tied to the Boulder City project cannot transfer to a data center. It did not commit to pausing data center abatements on federal land.",
+    "s": [
+      [
+        "Rep. Dina Titus",
+        "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5926"
+      ]
+    ],
+    "im": 0,
+    "iw": "No new restriction, but clarifies abatements do not carry over.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:11:22.808Z"
+  },
+  {
+    "d": "2026-07-23",
+    "j": "NV",
+    "w": "Rep. Dina Titus",
+    "lv": "federal",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "tax",
+      "siting"
+    ],
+    "t": "Titus asks Lombardo to freeze tax breaks for data centers on federal land",
+    "b": "Rep. Dina Titus wrote Gov. Lombardo asking him to hold off on state abatements for data centers on BLM land until the 2027 Legislature reviews the issue. Her letter focused on a proposed project beside Boulder City.",
+    "s": [
+      [
+        "Fox5 Vegas",
+        "https://www.fox5vegas.com/2026/07/23/las-vegas-rep-dina-titus-asks-gov-lombardo-pause-tax-abatements-data-centers-federal-land-near-boulder-city/"
+      ],
+      [
+        "Rep. Dina Titus",
+        "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5926"
+      ]
+    ],
+    "im": -1,
+    "iw": "Pressure to withhold incentives from projects on federal land.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:11:21.956Z"
+  },
+  {
+    "d": "2026-07-07",
+    "j": "NV",
+    "w": "Sierra Club, Clark County residents",
+    "lv": "local",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Sierra Club rallies for Clark County data center pause; commissioners take no action",
+    "b": "Environmental advocates rallied outside the county commission office urging a pause on new data center approvals. Commissioners held a general discussion at Commissioner Segerblom's request but set no rules; one said the region needs a uniform standard.",
+    "s": [
+      [
+        "Route Fifty",
+        "https://www.route-fifty.com/artificial-intelligence/2026/07/clark-county-commissioners-hear-push-data-center-moratorium-take-no-action/414641/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Moratorium push signals rising opposition, though no action yet.",
+    "pl": [
+      [
+        "Clark County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:11:22.210Z"
+  },
+  {
+    "d": "2026-04-01",
+    "j": "NV",
+    "w": "Boulder City residents",
+    "lv": "local",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "siting",
+      "cost"
+    ],
+    "t": "Boulder City residents gather at proposed data center site to protest",
+    "b": "About 20 residents met at the desert site of the proposed Townsite Solar 2 data center, citing heat, power and water concerns. A petition had nearly 1,300 signatures, and a City Hall protest was planned for April 15.",
+    "s": [
+      [
+        "Fox5 Vegas",
+        "https://www.fox5vegas.com/2026/04/02/boulder-city-residents-oppose-proposed-data-center/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Organized local opposition to a specific project.",
+    "pl": [
+      [
+        "Boulder City",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:11:22.780Z"
+  }
+]
