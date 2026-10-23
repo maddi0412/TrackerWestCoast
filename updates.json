@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "d": "2026-10-01",
+    "j": "HI",
+    "w": "Windward Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting"
+    ],
+    "t": "Windward commission recommends against Hawaii County data center bill over vague definition",
+    "b": "The Windward Planning Commission sent an unfavorable, non-binding recommendation on Bill 170, mainly because it found the data center definition unclear. The Leeward commission was scheduled to review it October 15, then the County Council decides.",
+    "s": [
+      [
+        "Honolulu Civil Beat",
+        "https://www.civilbeat.org/2026/10/big-island-wants-to-ban-big-data-centers-once-they-agree-on-what-they-are/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Non-binding negative vote, but council still decides on the ban.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:22:52.266Z"
+  },
+  {
+    "d": "2026-09-03",
+    "j": "HI",
+    "w": "Windward Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting"
+    ],
+    "t": "Windward Planning Commission defers action on Hawaii County data center bill",
+    "b": "The Windward Planning Commission voted 4-0 to defer Bill 170, which would separate AI data centers from standard data processing facilities in zoning. Next meetings were set for October, with a November 4 deadline to forward a recommendation.",
+    "s": [
+      [
+        "GovTech",
+        "https://www.govtech.com/artificial-intelligence/hawaii-county-defers-ai-data-center-ban-until-october"
+      ]
+    ],
+    "im": 0,
+    "iw": "Procedural delay; the ban proposal stays alive.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:22:52.228Z"
+  },
+  {
+    "d": "2026-07-07",
+    "j": "HI",
+    "w": "Hawaii County Council committee",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Hawaii County committee advances Bill 170 barring industrial-scale data centers",
+    "b": "A Hawaii County Council committee voted 8-0 to send Bill 170 to the planning director and planning commissions. It separates industrial-scale data centers from smaller data processing facilities and declares the former not a permitted use. Public-institution facilities are exempt.",
+    "s": [
+      [
+        "Hawaii Tribune-Herald",
+        "https://www.hawaiitribune-herald.com/2026/07/08/hawaii-news/legislation-targets-data-centers-in-hawaii-county/"
+      ],
+      [
+        "Hawaiʻi Public Radio",
+        "https://www.hawaiipublicradio.org/local-news/2026-07-08/hawaii-county-moves-to-block-data-centers"
+      ]
+    ],
+    "im": -2,
+    "iw": "Proposed countywide ban on large data centers closes a zoning pathway.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:22:52.104Z"
+  },
+  {
+    "d": "2026-04-09",
+    "j": "HI",
+    "w": "Hawaii House of Representatives",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "disclosure"
+    ],
+    "t": "Hawaii House adopts resolution seeking working group on large data centers",
+    "b": "The House adopted HR 196 HD1, asking the State Energy Office to convene a working group on data centers drawing five megawatts or more. It would examine ratepayer protection, grid costs, water and emissions reporting, and report before the 2027 session.",
+    "s": [
+      [
+        "Hawaii State Legislature (HR196 HD1 text)",
+        "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR196_HD1_.HTM"
+      ],
+      [
+        "DataCenterData",
+        "https://datacenterdata.com/hawaii/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Study could lead to cost-allocation and reporting rules.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:22:52.284Z"
+  }
+]
