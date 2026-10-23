@@ -1,1 +1,246 @@
-[]
+[
+  {
+    "d": "2026-10-20",
+    "j": "WA",
+    "w": "Spokane County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Spokane County extends data center permit pause to June 2027",
+    "b": "Commissioners voted unanimously to extend the pause on data center permits from December 15, 2026 to June 1, 2027, or until rules are set. They say it carries the same legal effect as a moratorium.",
+    "s": [
+      [
+        "KXLY 920",
+        "https://kxly920.com/2026/10/20/spokane-county-extends-data-center-construction-pause-until-june-2027/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Extends the permit halt by about five months.",
+    "pl": [
+      [
+        "Spokane County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:26.105Z"
+  },
+  {
+    "d": "2026-10-13",
+    "j": "WA",
+    "w": "Klickitat County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "failed",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Klickitat County commissioners decline moratorium, send interim data center rules to legal review",
+    "b": "After 26 people urged a one-year moratorium, commissioners adopted neither a pause nor an interim ordinance. They referred the proposed interim zoning controls to the prosecuting attorney for full legal review.",
+    "s": [
+      [
+        "Columbia Gorge News",
+        "https://www.columbiagorgenews.com/news/data-center-day-for-klickitat-county-commissioners-oct-13/article_bb0dbbab-4a26-4593-9ea5-68414e202fa2.html"
+      ]
+    ],
+    "im": 1,
+    "iw": "No pause adopted; proposals can keep moving for now.",
+    "pl": [
+      [
+        "Klickitat County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:25.840Z"
+  },
+  {
+    "d": "2026-08-18",
+    "j": "WA",
+    "w": "Spokane County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Spokane County commissioners approve four-month pause on data center permits",
+    "b": "All five commissioners backed a four-month pause on new data center permits, drafted by staff after a nine-month moratorium split 3-2 in July. The pause gives time to develop zoning rules and can be extended.",
+    "s": [
+      [
+        "Range Media",
+        "https://www.rangemedia.co/spokane-county-four-month-moratorium-data-center/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Halts new data center permits while zoning is written.",
+    "pl": [
+      [
+        "Spokane County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:25.755Z"
+  },
+  {
+    "d": "2026-08-11",
+    "j": "WA",
+    "w": "Yakima County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Yakima County commissioners approve six-month data center moratorium",
+    "b": "Commissioners voted unanimously to stop accepting land use or building permits for data centers in unincorporated Yakima County. The pause allows study of water, power and agricultural impacts. No applications had been filed.",
+    "s": [
+      [
+        "Yakima Herald-Republic",
+        "https://www.yakimaherald.com/news/local/government/yakima-county-commissioners-pass-six-month-data-center-moratorium/article_997dbbc7-7fe0-476a-9d92-73179f958bf7.html"
+      ]
+    ],
+    "im": -2,
+    "iw": "Blocks data center permits in unincorporated county during the pause.",
+    "pl": [
+      [
+        "Yakima County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:25.569Z"
+  },
+  {
+    "d": "2026-07-20",
+    "j": "WA",
+    "w": "Pasco City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Pasco council unanimously adopts six-month data center moratorium",
+    "b": "Council voted 6-0 for an immediate pause on new permits and business licenses for data centers, crypto mining and AI computing facilities. Staff will draft regulations, and a hearing is required within 60 days.",
+    "s": [
+      [
+        "NBC Right Now",
+        "https://www.nbcrightnow.com/news/city-of-pasco-approves-six-month-pause-on-new-data-centers/article_d8f56382-98af-469d-9701-d133e9b4fd84.html"
+      ]
+    ],
+    "im": -2,
+    "iw": "Pauses permits for data centers and similar facilities in Pasco.",
+    "pl": [
+      [
+        "Pasco",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:25.263Z"
+  },
+  {
+    "d": "2026-06-22",
+    "j": "WA",
+    "w": "Spokane City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Spokane council pauses building permits for new data centers for one year",
+    "b": "Ordinance C36887 stops the city from accepting or approving building permit applications for new data centers citywide, effective immediately. Council directed staff boards to build an impact review and policy framework. A public hearing was set for July 22.",
+    "s": [
+      [
+        "City of Spokane",
+        "https://my.spokanecity.org/news/releases/2026/06/23/spokane-city-council-passes-one-year-moratorium-on-data-centers/"
+      ]
+    ],
+    "im": -2,
+    "iw": "One-year citywide halt on permits for new data centers.",
+    "pl": [
+      [
+        "Spokane",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:24.036Z"
+  },
+  {
+    "d": "2026-06-09",
+    "j": "WA",
+    "w": "Seattle City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Seattle adopts emergency moratorium on large new data centers",
+    "b": "The council unanimously passed an emergency pause on siting data centers above 20 MVA, plus a resolution ordering studies of grid, water, rates and health impacts. It followed inquiries about five facilities totaling 369 MW. A hearing is due within 60 days.",
+    "s": [
+      [
+        "Seattle City Council Blog",
+        "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Freezes new large facilities in the state's biggest city during studies.",
+    "pl": [
+      [
+        "Seattle",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:23.891Z"
+  },
+  {
+    "d": "2025-03-25",
+    "j": "WA",
+    "w": "Grant County PUD",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "siting"
+    ],
+    "t": "Grant County PUD tells commissioners it will cap data center load growth",
+    "b": "At its March 25 meeting, utility staff said it plans per-customer limits on added power for data centers and possibly other industrial users, citing transmission reliability. Caps rise as substation and transmission upgrades finish. No commission vote was reported.",
+    "s": [
+      [
+        "Grant PUD",
+        "https://www.grantpud.org/blog/commission-recap-3-25-2025"
+      ],
+      [
+        "Columbia Basin Herald",
+        "https://columbiabasinherald.com/news/2025/mar/31/grant-pud-places-limits-on-electrical-demand-from-data-centers/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Limits how fast existing Quincy-area data centers can add power.",
+    "pl": [
+      [
+        "Grant County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:42:26.319Z"
+  }
+]
