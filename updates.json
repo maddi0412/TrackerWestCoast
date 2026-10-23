@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "d": "2026-10-22",
+    "j": "OR",
+    "w": "Clackamas County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Clackamas County adopts 120-day data center development moratorium",
+    "b": "Commissioners voted unanimously to pause data center development in unincorporated Clackamas County for 120 days, effective immediately, while staff study possible regulations. The pause can be extended or repealed sooner.",
+    "s": [
+      [
+        "Clackamas County",
+        "https://www.clackamas.us/news/2026-10-22/clackamas-county-commissioners-unanimously-approve-temporary-data-center-moratorium"
+      ]
+    ],
+    "im": -2,
+    "iw": "Local pause blocks new applications in the county for months.",
+    "pl": [
+      [
+        "Clackamas County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:26:36.748Z"
+  },
+  {
+    "d": "2026-07-07",
+    "j": "OR",
+    "w": "Oregon Public Utility Commission",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost"
+    ],
+    "t": "Oregon PUC approves 29.7% PGE rate increase for data centers",
+    "b": "Regulators unanimously approved higher rates for PGE customers above 20 megawatts, including data centers, effective July 8. Residential bills fall about 1.3%. The order also adds an energy-assistance charge and connection rules for new large users.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/07/07/oregon-data-center-general-electric-rate-hikes/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Large users face sharply higher power bills under the new class.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:26:36.991Z"
+  },
+  {
+    "d": "2026-05-07",
+    "j": "OR",
+    "w": "Oregon Public Utility Commission",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost",
+      "permitting"
+    ],
+    "t": "Oregon PUC creates Schedule 96 large-load tariff for PGE",
+    "b": "Order sets a rate class for loads over 20 MW under the POWER Act. Customers pay full distribution upgrade costs, 90% minimum demand charges and long contracts. Projects over 100 MW pay a 1-cent per kWh surcharge.",
+    "s": [
+      [
+        "Utility Dive",
+        "https://www.utilitydive.com/news/oregon-puc-approves-pges-large-load-tariff-framework-for-data-centers/821361/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Long contracts and minimum charges raise cost and risk for developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:26:37.297Z",
+    "linkCheck": "blocked-by-site"
+  },
+  {
+    "d": "2026-03-02",
+    "j": "OR",
+    "w": "Oregon House budget subcommittee",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "tax"
+    ],
+    "t": "Oregon House panel moves to bar new data centers from expanded tax breaks",
+    "b": "A budget subcommittee approved an amendment to the governor's HB 4084 keeping new data centers out of enterprise zone tax breaks until summer 2027. The governor's office said it supported the change.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/03/02/data-centers-cut-bill-expanding-oregon-tax-breaks/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Removes expanded tax incentives for new projects for about a year.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:26:37.402Z"
+  },
+  {
+    "d": "2025-06-05",
+    "j": "OR",
+    "w": "Oregon House",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost"
+    ],
+    "t": "Oregon Legislature passes POWER Act for data center electricity costs",
+    "b": "The House cast the final vote on HB 3546, sending it to the governor. It creates a customer class for users above 20 megawatts, requiring 10-year contracts with minimum payments and payment for new transmission.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2025/06/05/oregon-data-centers-cryptocurrency-business-environment-power-electricity/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Shifts grid costs and long-term commitments onto large users.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:26:37.489Z"
+  }
+]
