@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "d": "2026-10-20",
+    "j": "OR",
+    "w": "Hillsboro City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting"
+    ],
+    "t": "Hillsboro adopts permanent data center rules capping acreage",
+    "b": "Councilors voted unanimously for permanent data center rules that cap development at just over 600 acres citywide, with about 570 already in use. Design standards on height, noise and water are under consideration.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/10/22/oregon-counties-cities-data-centers-could-cost-millions/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Acreage cap leaves almost no room for new data centers.",
+    "pl": [
+      [
+        "Hillsboro",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:19:24.730Z"
+  },
+  {
+    "d": "2026-10-09",
+    "j": "OR",
+    "w": "Gov. Kotek",
+    "lv": "state",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Kotek orders DEQ to pause air and water permits for new data centers",
+    "b": "In a letter to the Department of Environmental Quality, the governor directed a pause on air and water pollution permits for new or expanding data centers until July 2027. It was made public Oct. 13. Amazon objected, citing jobs and investment.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/10/13/oregon-data-centers-technology-amazon-tina-kotek/"
+      ],
+      [
+        "Spokesman-Review",
+        "https://www.spokesman.com/stories/2026/oct/14/oregon-governor-orders-pause-on-environmental-perm/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Most hyperscale projects need these permits, so new builds stall until mid-2027.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:23.802Z"
+  },
+  {
+    "d": "2026-10-01",
+    "j": "OR",
+    "w": "House District 52 candidates",
+    "lv": "state",
+    "k": "politics",
+    "st": "campaign",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "House District 52 candidates split on a data center moratorium",
+    "b": "Democrat Hank Sanders backs a statewide pause on new data center construction. Republican Scott Hege opposes statewide moratoriums but would support local bans where communities want them.",
+    "s": [
+      [
+        "Willamette Week",
+        "https://www.wweek.com/news/2026/10/01/house-district-52-candidates-offer-sharp-contrast-on-data-centers/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Mixed signals in a district hosting five Google data centers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:28.288Z"
+  },
+  {
+    "d": "2026-09-02",
+    "j": "OR",
+    "w": "Gov. Kotek",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "cost"
+    ],
+    "t": "Kotek reports POWER Act cut PGE residential rates and raised data center rates",
+    "b": "The governor's report said PGE residential rates fell an average of 1.3% while data center rates rose 29%. She called for 2027 legislation requiring data centers to supply more of their own renewable energy.",
+    "s": [
+      [
+        "Oregon Governor's Office",
+        "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/oregons-power-act-delivers-lower-rates-for-oregon-families-and-businesses-higher-costs-for-data-centers"
+      ]
+    ],
+    "im": -1,
+    "iw": "Higher data center rates and a proposed self-supply mandate add costs.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:24.819Z"
+  },
+  {
+    "d": "2026-08-07",
+    "j": "OR",
+    "w": "Gov. Kotek",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Kotek backs locally set data center moratoriums",
+    "b": "The governor said she supports local moratoriums until her advisory committee's recommendations are reviewed, while acknowledging the state lacks authority for a statewide moratorium.",
+    "s": [
+      [
+        "Oregon Governor's Office",
+        "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-supports-moratoriums-on-data-center-development"
+      ]
+    ],
+    "im": -1,
+    "iw": "Governor's support encourages more local moratoriums.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:25.208Z"
+  },
+  {
+    "d": "2026-07-30",
+    "j": "OR",
+    "w": "Gov. Kotek",
+    "lv": "state",
+    "k": "action",
+    "st": "denied",
+    "ty": [
+      "siting"
+    ],
+    "t": "Kotek cancels state land sale for proposed $5 billion Salem data center",
+    "b": "The governor ordered the state to end a contract to sell about 32 acres at Mill Creek Corporate Center in southeast Salem for a data center. OPB noted it was unclear whether the transaction was fully canceled.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/07/30/oregon-governor-kotek-state-land-salem-data-center/"
+      ]
+    ],
+    "im": -2,
+    "iw": "A specific large project loses its state-owned site.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:24.605Z"
+  },
+  {
+    "d": "2026-07-02",
+    "j": "OR",
+    "w": "Sens. Wyden and Merkley",
+    "lv": "federal",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "cost",
+      "water",
+      "disclosure"
+    ],
+    "t": "Wyden and Merkley urge state committee to weigh data center concerns",
+    "b": "Oregon's senators wrote to the governor's advisory committee asking it to consider energy demand, electricity costs, water, noise, land use, tribal rights and transparency.",
+    "s": [
+      [
+        "Sen. Merkley's office",
+        "https://www.merkley.senate.gov/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Federal delegation adds scrutiny on costs and impacts.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:25.375Z"
+  },
+  {
+    "d": "2026-06-22",
+    "j": "OR",
+    "w": "1000 Friends of Oregon and others",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "tax",
+      "siting"
+    ],
+    "t": "Residents and groups sue Hillsboro and Washington County over data center tax breaks",
+    "b": "A writ of review in Washington County Circuit Court challenges 17 Hillsboro enterprise zone applications. Plaintiffs say the city and county improperly approved tax breaks, some extending beyond 2032.",
+    "s": [
+      [
+        "1000 Friends of Oregon",
+        "https://friends.org/news/2026/6/1000-friends-sue-hillsboro"
+      ]
+    ],
+    "im": -1,
+    "iw": "Tax breaks for 17 projects face legal challenge and delay.",
+    "pl": [
+      [
+        "Hillsboro",
+        "city"
+      ],
+      [
+        "Washington County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:19:24.688Z"
+  },
+  {
+    "d": "2026-05-07",
+    "j": "OR",
+    "w": "Oregon PUC",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost",
+      "siting"
+    ],
+    "t": "Oregon PUC approves PGE's separate rate class for large data centers",
+    "b": "Order 26-154 sets a rate class for data centers over 20 MW. It requires long contracts, customer-paid distribution upgrades, high minimum demand charges and a surcharge on projects over 100 MW.",
+    "s": [
+      [
+        "Utility Dive",
+        "https://www.utilitydive.com/news/oregon-puc-approves-pges-large-load-tariff-framework-for-data-centers/821361/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Higher cost-sharing and long commitments raise developers' costs in PGE territory.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:24.160Z",
+    "linkCheck": "blocked-by-site"
+  },
+  {
+    "d": "2025-06-16",
+    "j": "OR",
+    "w": "Gov. Kotek",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost"
+    ],
+    "t": "Kotek signs POWER Act creating a data center rate class",
+    "b": "HB 3546, the POWER Act, was signed into law. It directs the PUC to create a separate rate class for large users over 20 MW, aiming to keep data center costs off other ratepayers.",
+    "s": [
+      [
+        "Lewis & Clark Law School",
+        "https://law.lclark.edu/live/news/58850-power-act-implementation-comparing-approaches-to-data-"
+      ]
+    ],
+    "im": -1,
+    "iw": "Large users must carry their own grid costs, raising operating expenses.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:19:24.248Z"
+  }
+]
