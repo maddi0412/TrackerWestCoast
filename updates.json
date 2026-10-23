@@ -1,1 +1,218 @@
-[]
+[
+  {
+    "d": "2026-10-20",
+    "j": "OR",
+    "w": "Umatilla City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "permitting",
+      "tax"
+    ],
+    "t": "Umatilla declares emergency over Kotek's data center permit pause",
+    "b": "The council cited expected losses of over $2.5 million a year in tax payments plus water and police-station funding. It wants the pause reversed, other data center communities enlisted, or legal action.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/10/22/oregon-counties-cities-data-centers-could-cost-millions/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Pause stalls projects such as Sabey's Umatilla campus.",
+    "pl": [
+      [
+        "Umatilla",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:33:03.889Z"
+  },
+  {
+    "d": "2026-10-07",
+    "j": "OR",
+    "w": "Kotek and Drazan",
+    "lv": "state",
+    "k": "politics",
+    "st": "campaign",
+    "ty": [
+      "moratorium",
+      "tax"
+    ],
+    "t": "Kotek and Drazan clash over data centers in Medford debate",
+    "b": "At the Medford gubernatorial debate, Kotek called for a statewide moratorium. Drazan said Kotek was rewriting history and cited $1.4 billion in tax breaks for 142 data centers during Kotek's tenure.",
+    "s": [
+      [
+        "KTVZ",
+        "https://ktvz.com/news/government-politics/2026/10/08/tina-kotek-and-christine-drazan-clash-over-data-centers-in-medford-debate/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Both major candidates now attack data center incentives.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:33:02.947Z"
+  },
+  {
+    "d": "2026-09-27",
+    "j": "OR",
+    "w": "DHM Research for OPB",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Poll: 72% of Oregon likely voters say data centers will influence their vote",
+    "b": "A DHM Research poll for OPB, conducted Sept. 17-27, found most likely voters said data centers would sway their vote, though cost of living and the economy ranked well ahead as top concerns.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/09/30/opb-poll-shows-oregon-governors-race-virtually-deadlocked/"
+      ]
+    ],
+    "im": -1,
+    "iw": "The issue's salience keeps political risk high for developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:33:03.351Z"
+  },
+  {
+    "d": "2026-09-08",
+    "j": "OR",
+    "w": "Kotek, Capitol rally",
+    "lv": "state",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Salem rally urges lawmakers to pass a statewide data center moratorium",
+    "b": "Demonstrators outside the Capitol asked the 2027 Legislature for a temporary statewide ban. Gov. Kotek addressed the crowd, said she now backs a moratorium, and said the Legislature must do more.",
+    "s": [
+      [
+        "KLCC",
+        "https://www.klcc.org/politics-government/2026-09-08/gov-tina-kotek-says-she-now-supports-a-data-center-moratorium"
+      ]
+    ],
+    "im": -1,
+    "iw": "Public pressure and governor support raise odds of a statewide pause.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:33:02.814Z"
+  },
+  {
+    "d": "2026-08-04",
+    "j": "OR",
+    "w": "Four Democratic legislators",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Democratic lawmakers plan three-year pause on new large data centers in 2027",
+    "b": "Four Democratic state legislators announced they will propose a three-year statewide pause on new large data centers when the Legislature meets in 2027.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/08/30/data-centers-emerge-as-new-flashpoint-between-kotek-drazan-oregon-governors-race/"
+      ]
+    ],
+    "im": -2,
+    "iw": "A multi-year statutory pause would block most new projects.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:33:03.473Z"
+  },
+  {
+    "d": "2026-07-28",
+    "j": "OR",
+    "w": "DHM Research poll",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "moratorium",
+      "tax"
+    ],
+    "t": "Oregon poll: 71% negative on data centers, two-thirds back a temporary ban",
+    "b": "A DHM Research survey of 600 registered voters, taken July 23-28, found 66% support temporarily blocking new AI data centers and 73% oppose tax breaks to attract them.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/08/04/oregon-data-centers-polling-data/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Broad voter opposition to pauses and tax breaks pressures lawmakers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:33:02.988Z"
+  },
+  {
+    "d": "2026-06-22",
+    "j": "OR",
+    "w": "Twelve plaintiffs v. Hillsboro",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "tax"
+    ],
+    "t": "Coalition sues Hillsboro over enterprise zone tax breaks for 17 data centers",
+    "b": "Twelve plaintiffs, including 1000 Friends of Oregon and the Oregon Education Association, sued the city and data center companies. They challenge the city's authority to grant the breaks and seek to claw back the exemptions.",
+    "s": [
+      [
+        "Street Roots",
+        "https://www.streetroots.org/news-stories/2026/09/30/how-revelations-like-450m-tax-breaks-created-a-powerful-opposition-movement-against-oregon-data-centers/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Suit threatens existing property tax savings for operators.",
+    "pl": [
+      [
+        "Hillsboro",
+        "city"
+      ],
+      [
+        "Washington County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:33:03.684Z"
+  },
+  {
+    "d": "2026-06-02",
+    "j": "OR",
+    "w": "Hillsboro residents",
+    "lv": "local",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "tax",
+      "siting"
+    ],
+    "t": "Over 200 residents confront Hillsboro council over data center tax breaks",
+    "b": "More than 200 people packed a city council meeting to object to enterprise zone property tax exemptions for planned data centers, citing few jobs, low wages and environmental effects. Some urged a recall of the mayor.",
+    "s": [
+      [
+        "OPB",
+        "https://www.opb.org/article/2026/06/03/data-center-hillsboro-residents-city-council-meeting/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Local backlash over tax breaks fed later moratorium and lawsuit.",
+    "pl": [
+      [
+        "Hillsboro",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:33:03.594Z"
+  }
+]
