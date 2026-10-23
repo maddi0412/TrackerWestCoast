@@ -1,1 +1,126 @@
-[]
+[
+  {
+    "d": "2026-10-22",
+    "j": "AK",
+    "w": "Fairbanks borough mayor",
+    "lv": "local",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Fairbanks borough mayor proposes temporary pause on large data center land use permits",
+    "b": "Mayor Grier Hopkins proposed a temporary moratorium that would stop the borough from issuing land use permits for large data centers. Length and vote timing were not reported.",
+    "s": [
+      [
+        "Alaska's News Source",
+        "https://www.alaskasnewssource.com/video/2026/10/23/fairbanks-borough-mayor-proposes-temporary-data-center-moratorium/"
+      ]
+    ],
+    "im": -1,
+    "iw": "A local permit pause would delay projects if adopted.",
+    "pl": [
+      [
+        "Fairbanks North Star Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:26:39.579Z"
+  },
+  {
+    "d": "2026-10-05",
+    "j": "AK",
+    "w": "Petersburg Borough Assembly",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Petersburg Assembly begins drafting nine-month data center pause and zoning rules",
+    "b": "The Assembly voted 6-0 twice, directing the borough manager to draft an ordinance for a nine-month pause on certain data center development and amendments to the zoning code. Both must return as ordinances and pass three readings.",
+    "s": [
+      [
+        "Petersburg Pilot",
+        "https://www.petersburgpilot.com/story/2026/10/15/news/assembly-starts-work-on-data-center-moratorium-zoning-rules/16144.html"
+      ]
+    ],
+    "im": -1,
+    "iw": "Proposed pause would block development if enacted, but not yet law.",
+    "pl": [
+      [
+        "Petersburg Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:26:38.710Z"
+  },
+  {
+    "d": "2026-08-27",
+    "j": "AK",
+    "w": "Fairbanks North Star Borough Assembly",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Fairbanks borough lists data center moratorium among 2027 legislative priorities",
+    "b": "The Assembly adopted its 2027 legislative priorities, which include asking for a moratorium on new commercial data centers until standards are set. It is a request to lawmakers rather than a local ordinance.",
+    "s": [
+      [
+        "Fairbanks Daily News-Miner",
+        "https://www.newsminer.com/news/local_news/school-testing-data-center-moratorium-spark-discussion-at-assembly/article_6ac582a2-1e7b-41a0-926c-e2389cfa67c0.html"
+      ]
+    ],
+    "im": -1,
+    "iw": "Signals support for a pause, but it has no legal force.",
+    "pl": [
+      [
+        "Fairbanks North Star Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:26:39.241Z"
+  },
+  {
+    "d": "2026-03-24",
+    "j": "AK",
+    "w": "Anchorage Assembly",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting",
+      "water"
+    ],
+    "t": "Anchorage adopts first zoning rules for data centers",
+    "b": "The Assembly voted 10-2 to define data centers as a land use, make them conditional uses outside residential zones, and require utility letters showing grid, water and wastewater capacity. Landscaping buffers and enclosed power equipment are also required.",
+    "s": [
+      [
+        "Anchorage Daily News",
+        "https://www.adn.com/alaska-news/anchorage/2026/03/27/anchorage-assembly-preemptively-adopts-data-center-regulations/"
+      ],
+      [
+        "Davis Wright Tremaine",
+        "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/04/anchorage-adopts-data-center-framework"
+      ]
+    ],
+    "im": -1,
+    "iw": "New review steps and capacity proof add cost, but projects remain allowed.",
+    "pl": [
+      [
+        "Anchorage",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:26:38.400Z"
+  }
+]
