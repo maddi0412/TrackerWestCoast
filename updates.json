@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "d": "2026-06-01",
+    "j": "WA",
+    "w": "Skagit County Commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Skagit County adopts six-month moratorium on rural data centers",
+    "b": "Commissioners paused new applications for data centers over 2,000 square feet or 2 megawatts in unincorporated Skagit County. Planning staff will draft siting rules, and a public hearing was set for July 14.",
+    "s": [
+      [
+        "Skagit County",
+        "https://www.skagitcountywa.gov/news/posts/skagit-county-commissioners-adopt-moratorium-on-new-data-centers"
+      ]
+    ],
+    "im": -2,
+    "iw": "Moratorium blocks new rural applications while rules are written.",
+    "pl": [
+      [
+        "Skagit County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:34:59.293Z"
+  },
+  {
+    "d": "2026-04-01",
+    "j": "WA",
+    "w": "Gov. Ferguson",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "tax"
+    ],
+    "t": "Washington signs law narrowing data center sales-tax exemptions",
+    "b": "SB 6231, requested by the budget office, passed the Senate 26–23 and House 51–46. The governor signed it as Chapter 266 of the 2026 laws, expiring or trimming data center tax breaks.",
+    "s": [
+      [
+        "Washington State Legislature",
+        "https://app.leg.wa.gov/billsummary?BillNumber=6231&Year=2025&Initiative=false"
+      ]
+    ],
+    "im": -1,
+    "iw": "Narrower tax breaks raise costs for new Washington projects.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:34:58.313Z"
+  },
+  {
+    "d": "2026-02-14",
+    "j": "WA",
+    "w": "Washington House",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "siting"
+    ],
+    "t": "Washington House passes bill on large-energy-user data center costs and curtailment",
+    "b": "HB 2515 passed the House 51–41. It would have had utilities file tariffs or policies on cost allocation and curtailment in emergencies for facilities over 20 megawatts. The Senate did not pass it and it went back to House Rules.",
+    "s": [
+      [
+        "Washington State Legislature",
+        "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false"
+      ],
+      [
+        "Davis Wright Tremaine",
+        "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/03/washington-legislature-delays-data-center-bill"
+      ]
+    ],
+    "im": -1,
+    "iw": "Cost-allocation and curtailment rules would add obligations for large facilities.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:34:58.809Z"
+  }
+]
