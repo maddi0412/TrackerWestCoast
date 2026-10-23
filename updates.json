@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "d": "2026-10-09",
+    "j": "US",
+    "w": "FERC",
+    "lv": "federal",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost",
+      "disclosure"
+    ],
+    "t": "FERC approves PJM large-load registry but rejects its interim connection plan",
+    "b": "FERC accepted PJM's large-load definition and registry, which tracks site, ramp schedule and capacity arrangements. It rejected the interim service that would have let large loads connect without new capacity, citing state authority over retail customers.",
+    "s": [
+      [
+        "Utility Dive",
+        "https://www.utilitydive.com/news/ferc-pjm-large-load-interconnection-iras-byonc/832716/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Faster-connection route denied; added reporting duties for large loads.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:37:53.191Z",
+    "linkCheck": "blocked-by-site"
+  },
+  {
+    "d": "2026-07-16",
+    "j": "US",
+    "w": "FERC",
+    "lv": "federal",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "FERC orders NERC to write mandatory reliability standards for data center loads",
+    "b": "FERC directed NERC to file reliability standards and registration criteria for computational loads, including AI data centers, by Dec. 31, 2026. It set no size threshold, leaving details to NERC. A work plan for further standards is due March 2027.",
+    "s": [
+      [
+        "POWER Magazine",
+        "https://www.powermag.com/ferc-orders-mandatory-nerc-reliability-standards-for-data-center-and-other-computational-loads/"
+      ]
+    ],
+    "im": -1,
+    "iw": "New mandatory compliance obligations likely for large data center loads.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:37:53.099Z"
+  },
+  {
+    "d": "2025-07-23",
+    "j": "US",
+    "w": "Senate Energy Committee, Chairman Lee",
+    "lv": "federal",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "permitting",
+      "siting"
+    ],
+    "t": "Senate energy panel hears data center developer on grid power shortage",
+    "b": "At a hearing chaired by Sen. Mike Lee, a Vantage Data Centers executive said timely grid power is the main limit on data center growth. Lee tied rising electricity demand to AI data centers. No legislation or votes resulted.",
+    "s": [
+      [
+        "Senate Energy and Natural Resources Committee",
+        "https://www.energy.senate.gov/press/rep/chairman-lee-holds-hearing-to-address-urgent-challenges-facing-america-s-skyrocketing-energy-demands/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Committee leadership frames power access as the constraint, favoring faster interconnection.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:37:53.255Z"
+  }
+]
