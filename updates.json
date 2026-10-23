@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "d": "2026-10-22",
+    "j": "OR",
+    "w": "Clackamas County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Clackamas County adopts 120-day data center moratorium in unincorporated areas",
+    "b": "Commissioners voted unanimously, after two public hearings, for an immediately effective 120-day pause on data center development outside city limits. Staff will study water, utility costs and land use before drafting rules.",
+    "s": [
+      [
+        "Clackamas County",
+        "https://www.clackamas.us/news/2026-10-22/clackamas-county-commissioners-unanimously-approve-temporary-data-center-moratorium"
+      ]
+    ],
+    "im": -2,
+    "iw": "New data center projects blocked in unincorporated county during pause.",
+    "pl": [
+      [
+        "Clackamas County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:28:56.011Z"
+  },
+  {
+    "d": "2026-10-20",
+    "j": "OR",
+    "w": "Hillsboro City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "Hillsboro adopts permanent zoning caps limiting standalone data centers to about 608 acres",
+    "b": "Council unanimously approved rules confining standalone data centers mainly to two industrial zones, capped at 215 and 310 acres, plus 83 acres in Jackson East. Public hearings are required, accessory space is limited, and a temporary 1,000-foot school buffer applies.",
+    "s": [
+      [
+        "Hillsboro News Times",
+        "https://hillsboronewstimes.com/2026/10/21/hillsboro-city-council-adopts-first-round-of-new-data-center-restrictions/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Hard acreage caps leave little land for new standalone projects.",
+    "pl": [
+      [
+        "Hillsboro",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:28:56.205Z"
+  },
+  {
+    "d": "2026-10-20",
+    "j": "OR",
+    "w": "Umatilla City Council",
+    "lv": "local",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "permitting",
+      "tax"
+    ],
+    "t": "Umatilla declares emergency over lost revenue from governor's data center permit pause",
+    "b": "Council voted 5 of 6 present to declare an emergency over the state's pause on data center air and water permits. It asks the governor to withdraw the order and allows coordination on possible legal action.",
+    "s": [
+      [
+        "East Oregonian",
+        "https://eastoregonian.com/2026/10/21/umatilla-declares-emergency-over-lost-revenue-from-gov-koteks-data-center-permit-pause/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Local pushback may pressure state, but pause remains in place.",
+    "pl": [
+      [
+        "Umatilla",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:28:56.839Z"
+  },
+  {
+    "d": "2026-10-12",
+    "j": "OR",
+    "w": "Forest Grove City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Forest Grove approves 120-day moratorium on new data centers",
+    "b": "Council unanimously blocked new primary-use data centers and expansions of 20% or more at existing ones for 120 days. Projects with prior land use approval, including Crane's Heather Street development, are exempt.",
+    "s": [
+      [
+        "Forest Grove News-Times",
+        "https://forestgrovenewstimes.com/2026/10/14/forest-grove-city-council-approves-120-day-data-center-moratorium/"
+      ]
+    ],
+    "im": -2,
+    "iw": "New applications halted for four months, with limited exemptions.",
+    "pl": [
+      [
+        "Forest Grove",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:28:56.878Z"
+  },
+  {
+    "d": "2026-09-16",
+    "j": "OR",
+    "w": "Portland City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "disclosure",
+      "siting"
+    ],
+    "t": "Portland council urges transparency on data center deals and signals future restrictions",
+    "b": "Council adopted a resolution urging city leaders to avoid data center nondisclosure agreements and to notify councilors of inquiries for projects of 20 megawatts or more. It states intent to pursue a moratorium or zoning limits on hyperscale facilities.",
+    "s": [
+      [
+        "City of Portland",
+        "https://www.portland.gov/council/documents/resolution/adopted/37753"
+      ]
+    ],
+    "im": -1,
+    "iw": "Non-binding, but signals future limits and less secrecy for developers.",
+    "pl": [
+      [
+        "Portland",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:28:57.688Z"
+  }
+]
