@@ -1,1 +1,183 @@
-[]
+[
+  {
+    "d": "2026-04-07",
+    "j": "WA",
+    "w": "WA Utilities Commission",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "permitting"
+    ],
+    "t": "Washington utilities regulator opens docket on connecting large loads like data centers",
+    "b": "The UTC opened docket UE-260162 on April 7 to examine how investor-owned utilities should handle large energy loads, and held a technical conference April 27.",
+    "s": [
+      [
+        "Washington UTC",
+        "https://www.utc.wa.gov/news/2026/utc-host-technical-conference-large-energy-loads-april-27"
+      ]
+    ],
+    "im": -1,
+    "iw": "Could lead to large-load tariffs and cost-shift protections.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:40:00.829Z"
+  },
+  {
+    "d": "2026-04-01",
+    "j": "WA",
+    "w": "Gov. Ferguson",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "tax"
+    ],
+    "t": "Washington ends sales-tax break for replacing servers at existing data centers",
+    "b": "Gov. Ferguson signed SB 6231, which removes the sales and use tax exemption for replacement server equipment at existing data centers from July 1. Exemptions for building new data centers are unchanged.",
+    "s": [
+      [
+        "Bloomberg Tax",
+        "https://news.bloombergtax.com/daily-tax-report-state/washington-to-end-data-center-tax-break-for-replacing-servers"
+      ]
+    ],
+    "im": -1,
+    "iw": "Raises operating costs for existing facilities; construction exemptions stay.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:39:57.725Z"
+  },
+  {
+    "d": "2026-03-24",
+    "j": "WA",
+    "w": "Gov. Ferguson",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "permitting"
+    ],
+    "t": "Ferguson signs bill holding large customers to clean energy deadlines",
+    "b": "SB 5982, Chapter 181 of 2026, updates Clean Energy Transformation Act provisions for consumer-owned utilities and affected market customers, which a law firm analysis says includes data centers. It takes effect June 11, 2026.",
+    "s": [
+      [
+        "Washington Legislature bill summary, SB 5982",
+        "https://app.leg.wa.gov/billsummary?BillNumber=5982&Year=2025"
+      ],
+      [
+        "Davis Wright Tremaine",
+        "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/03/washington-legislature-delays-data-center-bill"
+      ]
+    ],
+    "im": -1,
+    "iw": "Adds clean energy compliance obligations for large customers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:40:00.046Z"
+  },
+  {
+    "d": "2026-03-12",
+    "j": "WA",
+    "w": "WA Senate",
+    "lv": "state",
+    "k": "action",
+    "st": "failed",
+    "ty": [
+      "cost",
+      "disclosure",
+      "siting"
+    ],
+    "t": "Washington's main data center regulation bill dies in the Senate",
+    "b": "HB 2515, covering facilities over 20 MW with utility cost rules, reporting and grid curtailment, passed the House but stalled in Senate Ways & Means. It was returned to House Rules on March 12 with no Senate vote.",
+    "s": [
+      [
+        "Washington Legislature bill summary, HB 2515",
+        "https://app.leg.wa.gov/billsummary?BillNumber=2515&Initiative=false&Year=2025"
+      ]
+    ],
+    "im": 1,
+    "iw": "Proposed tariffs, reporting and curtailment duties did not become law.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:39:58.759Z"
+  },
+  {
+    "d": "2026-02-14",
+    "j": "WA",
+    "w": "WA House",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "disclosure",
+      "siting"
+    ],
+    "t": "Washington House passes large energy facility bill covering data centers 51-41",
+    "b": "HB 2515, sponsored by Rep. Beth Doglio, cleared the House on Feb. 14 and moved to the Senate. It addressed large energy use facilities over 20 MW, including data centers.",
+    "s": [
+      [
+        "Washington Legislature bill summary, HB 2515",
+        "https://app.leg.wa.gov/billsummary?BillNumber=2515&Initiative=false&Year=2025"
+      ]
+    ],
+    "im": -1,
+    "iw": "Advancing bill signaled possible new cost and reporting duties.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:39:59.345Z"
+  },
+  {
+    "d": "2025-12-01",
+    "j": "WA",
+    "w": "Data Center Workgroup",
+    "lv": "state",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "cost",
+      "tax",
+      "water"
+    ],
+    "t": "Washington data center workgroup delivers preliminary report to governor",
+    "b": "The Department of Revenue says the workgroup gave the governor a preliminary report on Dec. 1, 2025. The final report awaits tribal consultation.",
+    "s": [
+      [
+        "Washington Department of Revenue",
+        "https://dor.wa.gov/about/data-center-workgroup"
+      ]
+    ],
+    "im": 0,
+    "iw": "Recommendations are advisory; legislative follow-up uncertain.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:40:00.805Z"
+  },
+  {
+    "d": "2025-02-04",
+    "j": "WA",
+    "w": "Gov. Ferguson",
+    "lv": "state",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "cost",
+      "tax",
+      "water"
+    ],
+    "t": "Ferguson creates workgroup to study data center energy, tax and jobs effects",
+    "b": "Executive Order 25-05 set up a Department of Revenue-led workgroup of agencies, utilities, labor, environmental groups and industry. It was to report on economy, energy use and tax incentives by Dec. 1, 2025.",
+    "s": [
+      [
+        "Governor of Washington",
+        "https://governor.wa.gov/news/2025/governor-bob-ferguson-signs-executive-order-establishing-data-center-workgroup"
+      ]
+    ],
+    "im": 0,
+    "iw": "Study only; could inform later tax and energy rules.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:40:00.782Z"
+  }
+]
