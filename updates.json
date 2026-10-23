@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "d": "2026-09-24",
+    "j": "AK",
+    "w": "Fishing groups, Kenai Borough",
+    "lv": "federal",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "permitting",
+      "siting"
+    ],
+    "t": "Groups seek to intervene against subsea Cook Inlet data center proposal",
+    "b": "The Center for Biological Diversity, a commercial fishing alliance and the Kenai Peninsula Borough filed to intervene in FERC review of DeepGreen's 100-megawatt tidal-powered data center proposal. Comments are open through November 2.",
+    "s": [
+      [
+        "Anchorage Daily News",
+        "https://www.adn.com/alaska-news/2026/09/24/alaska-fishing-and-wildlife-groups-raise-alarm-over-underwater-cook-inlet-data-center-proposal/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Interventions could slow federal permitting for the proposal.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:32:17.186Z"
+  },
+  {
+    "d": "2026-09-08",
+    "j": "AK",
+    "w": "Kreiss-Tomkins (D) campaign",
+    "lv": "state",
+    "k": "politics",
+    "st": "campaign",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Democratic governor candidate backs temporary Alaska data center moratorium",
+    "b": "Jonathan Kreiss-Tomkins says he supports pausing data center development until the Legislature passes a full regulatory framework. Republicans Bronson and Taylor favor development, while Bernadette Wilson opposes hyperscale sites.",
+    "s": [
+      [
+        "Alaska Public Media",
+        "https://alaskapublic.org/news/politics/elections/2026-09-21/where-do-alaskas-four-governor-candidates-stand-on-data-centers"
+      ]
+    ],
+    "im": -1,
+    "iw": "A leading candidate's pause pledge raises regulatory risk for developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:32:16.128Z"
+  },
+  {
+    "d": "2026-07-18",
+    "j": "AK",
+    "w": "Alaskans for Data Center Accountability",
+    "lv": "state",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "water",
+      "siting"
+    ],
+    "t": "Fairbanks rally opens statewide push for Alaska data center rules",
+    "b": "Northern Alaska Environmental Center and The Alaska Center held a Fairbanks event, with others planned in Wasilla and Anchorage. Organizers cite water, noise, heat and e-waste, and note Alaska has no statewide data center rules.",
+    "s": [
+      [
+        "Alaska News",
+        "https://alaskanews.com/c/alaska-news/environmental-groups-rally-against-a-wave-of-proposed-alaska-data-centers"
+      ]
+    ],
+    "im": -1,
+    "iw": "Organized statewide opposition raises pressure for restrictions on projects.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:32:16.397Z"
+  },
+  {
+    "d": "2026-07-07",
+    "j": "AK",
+    "w": "Public commenters, advocacy groups",
+    "lv": "state",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "siting"
+    ],
+    "t": "Hundreds of comments oppose North Slope data center land lease",
+    "b": "More than 500 comments reached Alaska's Department of Natural Resources on the proposed North Slope data center, with fewer than a dozen in support. Groups cited electricity prices and environmental effects. The deadline was extended to July 17.",
+    "s": [
+      [
+        "Anchorage Daily News",
+        "https://www.adn.com/business-economy/2026/07/07/data-center-critics-flood-alaska-land-managers-with-opposition-to-north-slope-project/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Heavy organized opposition complicates state approval of a major project.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:32:16.243Z"
+  },
+  {
+    "d": "2026-04-29",
+    "j": "AK",
+    "w": "Alaska legislators",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "cost",
+      "tax"
+    ],
+    "t": "Alaska lawmakers weigh data center incentives against limits as session nears end",
+    "b": "Sen. Löki Tobin's SB 250 would keep data center power costs out of residential rates and require community benefit agreements, but had no hearing scheduled. Rep. Kevin McCabe backs data centers. Alaska has no data center tax incentives.",
+    "s": [
+      [
+        "Alaska's News Source",
+        "https://www.alaskasnewssource.com/2026/04/30/data-centers-alaska-lawmakers-gauge-bans-or-tax-incentives-with-just-weeks-left-session/"
+      ]
+    ],
+    "im": 0,
+    "iw": "Both ratepayer protections and possible incentives remain undecided.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:32:17.050Z"
+  },
+  {
+    "d": "2025-09-30",
+    "j": "AK",
+    "w": "Gov. Dunleavy administration",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "disclosure"
+    ],
+    "t": "Dunleavy discloses state reserve commitment to data center investor DigitalBridge",
+    "b": "The governor told legislative leaders of a Constitutional Budget Reserve commitment to DigitalBridge, owner of data center builder Switch, and promised a third-party review. Reports put the sum at $50 million to $75 million.",
+    "s": [
+      [
+        "The Alaska Current",
+        "https://thealaskacurrent.com/2026/01/13/dunleavy-crum-digitalbridge-data-centers-alaska/"
+      ]
+    ],
+    "im": 0,
+    "iw": "State investment signals support but invites scrutiny of data center deals.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:32:17.289Z"
+  }
+]
