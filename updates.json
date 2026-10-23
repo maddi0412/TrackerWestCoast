@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "d": "2026-06-05",
+    "j": "AK",
+    "w": "U.S. Air Force",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "permitting",
+      "water"
+    ],
+    "t": "Air Force seeks bids to lease Alaska base land for AI data centers",
+    "b": "The Department of the Air Force issued a lease request for parcels at Joint Base Elmendorf-Richardson, Eielson and Clear Space Force Station. Bidders must finance, build and run the sites, and explain how they would limit effects on energy, water and bandwidth. Offers were due June 29.",
+    "s": [
+      [
+        "Alaska's News Source",
+        "https://www.alaskasnewssource.com/2026/06/09/us-military-plans-lease-alaska-land-ai-data-centers-community-responds/"
+      ]
+    ],
+    "im": 2,
+    "iw": "Federal land offered with a defined process for developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:30:43.890Z"
+  },
+  {
+    "d": "2025-07-23",
+    "j": "US",
+    "w": "Senate Energy Committee",
+    "lv": "federal",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "permitting",
+      "cost"
+    ],
+    "t": "Senate energy panel hears industry warn power access limits data centers",
+    "b": "Chairman Mike Lee convened a hearing on rising electricity demand, tied partly to AI data center growth. A Vantage Data Centers executive and Huntsman's CEO testified. Witnesses stressed reliable power and permitting reform as limits on U.S. AI buildout.",
+    "s": [
+      [
+        "Senate Energy and Natural Resources Committee",
+        "https://www.energy.senate.gov/press/rep/chairman-lee-holds-hearing-to-address-urgent-challenges-facing-america-s-skyrocketing-energy-demands/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Hearing centered on industry calls for faster power and permits.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T17:30:44.026Z"
+  }
+]
