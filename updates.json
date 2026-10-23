@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "d": "2026-10-01",
+    "j": "HI",
+    "w": "Windward Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting"
+    ],
+    "t": "Windward commission recommends against Hawaii County data center bill over vague definition",
+    "b": "The commission voted 5-1 to send an unfavorable, non-binding recommendation on Bill 170, mainly because the data center definition was not specific enough. Members generally supported the intent. The Leeward commission and county council still must weigh in.",
+    "s": [
+      [
+        "Honolulu Star-Advertiser",
+        "https://www.staradvertiser.com/2026/10/03/hawaii-news/hawaii-county-considers-curbing-ai-data-centers/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Unfavorable recommendation lowers near-term odds of the ban passing as written.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:28:25.361Z"
+  },
+  {
+    "d": "2026-09-03",
+    "j": "HI",
+    "w": "Windward Planning Commission",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting"
+    ],
+    "t": "Windward Planning Commission defers Hawaii County data center ban until October",
+    "b": "The commission voted 4-0 to postpone action on Bill 170. The planning director backed the distinction but suggested a 10,000-square-foot threshold, with larger facilities needing a use permit. Commissions must send recommendations to the council by November 4.",
+    "s": [
+      [
+        "Honolulu Star-Advertiser",
+        "https://www.staradvertiser.com/2026/09/09/hawaii-news/hawaii-county-proposal-to-ban-ai-data-centers-deferred-until-october/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Delay prolongs uncertainty over a possible ban but keeps it unresolved.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:28:25.252Z"
+  },
+  {
+    "d": "2026-07-07",
+    "j": "HI",
+    "w": "Hawaii County Council committee",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "Hawaii County council committee advances Bill 170 barring industrial-scale data centers",
+    "b": "A county council committee unanimously forwarded Bill 170, which would separate data centers from allowed data processing facilities and make industrial-scale data centers an impermissible use. Facilities serving public institutions and an existing Kawaihae site would be unaffected.",
+    "s": [
+      [
+        "Hawaiʻi Public Radio",
+        "https://www.hawaiipublicradio.org/local-news/2026-07-08/hawaii-county-moves-to-block-data-centers"
+      ]
+    ],
+    "im": -2,
+    "iw": "Proposed countywide ban on industrial-scale data centers would block new projects.",
+    "pl": [
+      [
+        "Hawaii County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:28:25.120Z"
+  }
+]
