@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "d": "2026-10-22",
+    "j": "AK",
+    "w": "Fairbanks borough mayor",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Fairbanks borough mayor proposes temporary pause on large data center land use permits",
+    "b": "Mayor Grier Hopkins proposed a temporary moratorium on the borough granting land use permits for large data centers. Length and next steps were not given in the report; the Assembly has not voted on it.",
+    "s": [
+      [
+        "Alaska's News Source",
+        "https://www.alaskasnewssource.com/video/2026/10/23/fairbanks-borough-mayor-proposes-temporary-data-center-moratorium/"
+      ]
+    ],
+    "im": -2,
+    "iw": "A local permit pause would block new large projects if adopted.",
+    "pl": [
+      [
+        "Fairbanks North Star Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:34:00.219Z"
+  },
+  {
+    "d": "2026-09-14",
+    "j": "AK",
+    "w": "Kenai Peninsula Borough",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "permitting",
+      "siting"
+    ],
+    "t": "Kenai borough seeks role in federal review of Cook Inlet subsea data center",
+    "b": "The borough filed a motion to intervene in FERC's review of DeepGreen's preliminary permit for a 100-megawatt underwater data center in Cook Inlet, asking for adequate public notice and a chance to comment.",
+    "s": [
+      [
+        "Anchorage Daily News",
+        "https://www.adn.com/alaska-news/2026/09/24/alaska-fishing-and-wildlife-groups-raise-alarm-over-underwater-cook-inlet-data-center-proposal/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Local intervention adds scrutiny and delay to an early-stage project.",
+    "pl": [
+      [
+        "Kenai Peninsula Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:34:00.066Z"
+  },
+  {
+    "d": "2026-08-27",
+    "j": "AK",
+    "w": "Fairbanks North Star Borough Assembly",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Fairbanks borough assembly backs state data center moratorium as 2027 priority",
+    "b": "The Assembly voted 6-1 to adopt 2027 legislative priorities, including a moratorium on commercial data centers on municipal or state-owned land until community-concern standards exist. It asks the Legislature to act when it convenes in January.",
+    "s": [
+      [
+        "Alaska's News Source",
+        "https://www.alaskasnewssource.com/2026/09/30/fairbanks-borough-assembly-candidates-weigh-data-centers/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Only a request to the state so far, but signals opposition.",
+    "pl": [
+      [
+        "Fairbanks North Star Borough",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:33:59.992Z"
+  },
+  {
+    "d": "2026-03-27",
+    "j": "AK",
+    "w": "Anchorage Assembly",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting",
+      "permitting",
+      "disclosure"
+    ],
+    "t": "Anchorage adopts first zoning rules for data centers",
+    "b": "The Assembly passed AO 2026-27 by 10-2. Data centers are limited to commercial and industrial zones, need a conditional use permit and public review, and must show utility electric, water and wastewater capacity. Developers may fund upgrades.",
+    "s": [
+      [
+        "Anchorage Daily News",
+        "https://www.adn.com/alaska-news/anchorage/2026/03/27/anchorage-assembly-preemptively-adopts-data-center-regulations/"
+      ],
+      [
+        "Davis Wright Tremaine",
+        "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/04/anchorage-adopts-data-center-framework"
+      ]
+    ],
+    "im": -1,
+    "iw": "New permit, setback and capacity-proof requirements add cost and delay.",
+    "pl": [
+      [
+        "Anchorage",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T17:33:59.681Z"
+  }
+]
