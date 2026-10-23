@@ -1,1 +1,105 @@
-[]
+[
+  {
+    "d": "2026-10-04",
+    "j": "WA",
+    "w": "Washington AI Resistance",
+    "lv": "state",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Protesters at 19 Washington sites demand statewide data center moratorium",
+    "b": "Groups including Washington AI Resistance and Food & Water Watch held a day of action. Organizers urged lawmakers and Gov. Ferguson to adopt a statewide pause, saying local moratoriums leave gaps developers could exploit.",
+    "s": [
+      [
+        "Common Dreams",
+        "https://www.commondreams.org/news/wa-state-data-center-moratorium"
+      ]
+    ],
+    "im": -1,
+    "iw": "Growing organized pressure for a statewide pause raises political risk for developers.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:45:35.801Z"
+  },
+  {
+    "d": "2026-09-21",
+    "j": "WA",
+    "w": "DHM Research",
+    "lv": "state",
+    "k": "politics",
+    "st": "poll",
+    "ty": [
+      "siting"
+    ],
+    "t": "Poll finds Washington support for data centers fell to 35 percent",
+    "b": "A DHM Research survey of 500 residents, fielded Sept. 14-21, found 59% opposed to data centers statewide, up from 32% in November 2025. Two-thirds would oppose one locally.",
+    "s": [
+      [
+        "DHM Research",
+        "https://www.dhmresearch.com/washingtonians-are-split-on-ai-but-not-on-data-centers-or-energy-costs/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Sharp drop in public support signals tougher local approvals ahead.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:45:35.966Z"
+  },
+  {
+    "d": "2026-06-12",
+    "j": "WA",
+    "w": "Walla Walla Anti-Data Center League",
+    "lv": "local",
+    "k": "politics",
+    "st": "protest",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Residents form league against Amazon data center in Walla Walla County",
+    "b": "After the Port of Walla Walla sold 554 acres to Amazon Data Services, residents formed an opposition group. It held its first town hall and seeks a county moratorium and transparency from Amazon.",
+    "s": [
+      [
+        "Union-Bulletin",
+        "https://www.union-bulletin.com/news/local/governments/anti-data-center-group-forms-to-oppose-amazon-development-in-walla-walla-county/article_5fec6335-261e-4a0f-ae61-a4133d286ff9.html"
+      ]
+    ],
+    "im": -1,
+    "iw": "Organized local opposition adds delay and permitting risk to Amazon's project.",
+    "pl": [
+      [
+        "Walla Walla County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-23T16:45:36.044Z"
+  },
+  {
+    "d": "2026-03-03",
+    "j": "WA",
+    "w": "Rep. Beth Doglio",
+    "lv": "state",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "cost",
+      "disclosure"
+    ],
+    "t": "Doglio says tech lobbying helped stall her Washington data center bill",
+    "b": "The sponsor of HB 2515 said it stalled in Senate Ways and Means after an intense campaign by large corporations to weaken or block it. She said she remains committed to the issue.",
+    "s": [
+      [
+        "WA House Democrats",
+        "https://housedemocrats.wa.gov/doglio/2026/03/03/data-centers-bill-update-immigrant-support-millionaires-tax/"
+      ]
+    ],
+    "im": 1,
+    "iw": "Bill stalling spares developers new cost-recovery and clean-energy mandates for now.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-10-23T16:45:36.134Z"
+  }
+]
