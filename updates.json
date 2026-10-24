@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "d": "2026-11-17",
+    "j": "VA",
+    "w": "Loudoun Board of Supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "permitting"
+    ],
+    "t": "Loudoun delays vote on one-year data center application pause to Nov. 17",
+    "b": "The board moved its planned Oct. 20 vote on pausing legislative data center and substation applications for a year. Officials said they need more time to gather information. The draft exempts grid-reliability substations.",
+    "s": [
+      [
+        "WJLA",
+        "https://wjla.com/news/local/loudoun-county-pushes-back-discussion-on-proposed-data-center-pause-virginia-electric-technology-ai"
+      ],
+      [
+        "WTOP",
+        "https://wtop.com/business-money/2026/10/loudoun-to-consider-12-month-pause-on-data-center-applications/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Pause still looms over 33 pending applications in top market.",
+    "pl": [
+      [
+        "Loudoun County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-24T12:32:09.194Z"
+  },
+  {
+    "d": "2026-10-22",
+    "j": "NM",
+    "w": "Grant County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Grant County, New Mexico approves one-year data center moratorium",
+    "b": "Commissioners voted 4-1 to bar building, expanding or operating data centers, and dedicated power, water and transmission infrastructure, in unincorporated areas from Nov. 21, 2026 to Nov. 21, 2027, while the county studies regulation.",
+    "s": [
+      [
+        "Searchlight New Mexico",
+        "https://searchlightnm.org/grant-county-commissioners-approve-data-center-moratorium/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Outright one-year ban on new projects and supporting infrastructure.",
+    "pl": [
+      [
+        "Grant County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-24T12:32:09.274Z"
+  },
+  {
+    "d": "2026-10-20",
+    "j": "TN",
+    "w": "Memphis City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Memphis council rejects long data center moratorium, passes 135-day construction pause instead",
+    "b": "A proposed 18-month moratorium failed on a tie. Members then approved a substitute ordinance halting data center construction for 135 days, meant to complement the mayor's 90-day impact study order. Some members said they had little time to review it.",
+    "s": [
+      [
+        "CBS News",
+        "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Shorter pause than proposed, but still halts construction for months.",
+    "pl": [
+      [
+        "Memphis",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-24T12:32:09.066Z"
+  }
+]
