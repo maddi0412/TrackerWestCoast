@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "d": "2026-10-27",
+    "j": "CA",
+    "w": "San Diego City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "San Diego council unanimously ratifies 45-day data center pause",
+    "b": "The council backed the mayor's executive order halting data center permitting and development in city limits for 45 days, extendable for nearly two years. Staff have 180 days to recommend a framework, after a proposed 400-megawatt project at the NAVWAR site.",
+    "s": [
+      [
+        "KPBS",
+        "https://www.kpbs.org/news/politics/2026/10/27/san-diego-city-council-unanimously-passes-moratorium-on-data-centers"
+      ]
+    ],
+    "im": -2,
+    "iw": "Pause halts permitting; city may extend it and write new rules.",
+    "pl": [
+      [
+        "San Diego",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-10-31T12:43:55.858Z"
+  }
+]
