@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "d": "2026-11-10",
+    "j": "NC",
+    "w": "Edenton Town Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Edenton holds a hearing on a 60-day data center moratorium",
+    "b": "The town council hears public comment on a proposed 60-day moratorium on data centers. Chowan County commissioners schedule a separate hearing for Nov. 23.",
+    "s": [
+      [
+        "Albemarle Observer",
+        "https://albemarleobserver.news/2026/11/06/edenton-chowan-county-to-consider-data-center-moratoriums/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Possible short pause on new applications.",
+    "pl": [
+      [
+        "Edenton",
+        "city"
+      ],
+      [
+        "Chowan County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-07T12:45:56.191Z"
+  },
+  {
+    "d": "2026-11-05",
+    "j": "ND",
+    "w": "Barnes County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Barnes County extends its commercial data center pause six months",
+    "b": "Commissioners voted unanimously to extend the freeze on commercial data centers by six months, to about May, while the county drafts local zoning rules. The earlier pause was due to end in mid-November.",
+    "s": [
+      [
+        "KFGO",
+        "https://kfgo.com/2026/11/06/1372510/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Extends a freeze on new commercial projects into spring.",
+    "pl": [
+      [
+        "Barnes County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-07T12:45:55.850Z"
+  },
+  {
+    "d": "2026-11-05",
+    "j": "US",
+    "w": "Sanders and House Democrats",
+    "lv": "federal",
+    "k": "politics",
+    "st": "statement",
+    "ty": [
+      "moratorium"
+    ],
+    "t": "Sanders and House Democrats call for data center limits after midterms",
+    "b": "After Nov. 3 local ballot wins for limits, Sen. Sanders urged a national data center moratorium. Reps. Ansari and Casar backed making an AI pause an early priority for a Democratic House.",
+    "s": [
+      [
+        "CNBC",
+        "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+      ]
+    ],
+    "im": -1,
+    "iw": "Rising political pressure for federal limits on buildout.",
+    "pl": [],
+    "auto": true,
+    "added": "2026-11-07T12:45:56.212Z"
+  },
+  {
+    "d": "2026-11-03",
+    "j": "OH",
+    "w": "Trenton voters",
+    "lv": "local",
+    "k": "action",
+    "st": "in-force",
+    "ty": [
+      "siting"
+    ],
+    "t": "Trenton, Ohio voters ban data centers over 25 megawatts, about 80% to 20%",
+    "b": "A ballot measure bars data centers drawing more than 25 megawatts within Trenton city limits. Unofficial results with all precincts reporting show it passing by roughly four to one.",
+    "s": [
+      [
+        "Journal-News",
+        "https://www.journal-news.com/local/elections/trenton-data-center-ban-passes-with-nearly-80-of-the-vote/article_63a9951a-54e1-5dcc-86b3-e70ed7887ce2.html"
+      ]
+    ],
+    "im": -2,
+    "iw": "Large facilities are now barred in the city.",
+    "pl": [
+      [
+        "Trenton",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-07T12:45:55.977Z"
+  }
+]
