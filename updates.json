@@ -1,1 +1,125 @@
-[]
+[
+  {
+    "d": "2026-11-12",
+    "j": "MN",
+    "w": "Minneapolis City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "siting",
+      "permitting"
+    ],
+    "t": "Minneapolis council passes 7–6 data center limits; mayoral veto possible",
+    "b": "The ordinance confines new data centers to existing buildings in two downtown districts and requires council approval of each one. Mayor Frey reportedly opposes case-by-case votes. Overriding a veto takes nine votes. The council meets again Nov. 20; the moratorium ends Nov. 21.",
+    "s": [
+      [
+        "MPR News",
+        "https://www.mprnews.org/story/2026/11/13/minneapolis-city-council-votes-to-require-casebycase-approval-of-new-data-centers"
+      ]
+    ],
+    "im": -2,
+    "iw": "Downtown-only siting with per-project council votes sharply limits development.",
+    "pl": [
+      [
+        "Minneapolis",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-14T12:45:30.914Z"
+  },
+  {
+    "d": "2026-11-10",
+    "j": "ID",
+    "w": "Boise City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "Boise adopts an emergency six-month pause on large data centers",
+    "b": "The council voted unanimously for an immediately effective six-month moratorium on new large data center projects. The city will study impacts while it considers zoning changes. The mayor said no large applications are currently pending.",
+    "s": [
+      [
+        "KIVI-TV",
+        "https://www.kivitv.com/downtown-boise/boise-city-council-approves-6-month-moratorium-on-mega-data-centers-amid-resident-concerns"
+      ]
+    ],
+    "im": -1,
+    "iw": "Short pause on large projects, but none are pending locally.",
+    "pl": [
+      [
+        "Boise",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-14T12:45:30.657Z"
+  },
+  {
+    "d": "2026-11-10",
+    "j": "NC",
+    "w": "Edenton Town Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "Edenton pauses data center approvals for 60 days",
+    "b": "Council members present voted unanimously to halt specified development approvals for new data centers and major expansions in town limits and its planning jurisdiction through Jan. 10, 2027. Some members wanted a longer pause and may revisit it in January.",
+    "s": [
+      [
+        "Albemarle Observer",
+        "https://albemarleobserver.news/2026/11/11/edenton-approves-data-center-moratorium-as-residents-call-for-stronger-safeguards/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Short, extendable pause blocks approvals while rules are written.",
+    "pl": [
+      [
+        "Edenton",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-14T12:45:30.809Z"
+  },
+  {
+    "d": "2026-11-10",
+    "j": "TX",
+    "w": "Fort Worth City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pending",
+    "ty": [
+      "moratorium",
+      "siting",
+      "water"
+    ],
+    "t": "Fort Worth holds first hearing on a 90-day data center pause",
+    "b": "The city held the first of two required hearings on a proposed 90-day pause on new data center development. A city commission also issued 19 recommendations, including closed-loop cooling and residential protections. The second hearing is tentatively Jan. 12.",
+    "s": [
+      [
+        "CBS News Texas",
+        "https://www.cbsnews.com/texas/news/fort-worth-data-centers-90-day-moratorium-residents-concerns-november-2026/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Proposed pause plus water and zoning rules would add delay and cost.",
+    "pl": [
+      [
+        "Fort Worth",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-14T12:45:30.940Z"
+  }
+]
