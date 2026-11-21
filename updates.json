@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "d": "2026-11-17",
+    "j": "CA",
+    "w": "San Jose City Council",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "San Jose pauses land use approvals for data centers and large energy projects",
+    "b": "Council voted unanimously to halt approvals, covering 12 projects under review, until new data center standards take effect. Those standards go to the council Dec. 8. The pause followed reports that a Google Alviso project could be approved first.",
+    "s": [
+      [
+        "San José Spotlight",
+        "https://sanjosespotlight.com/san-jose-enacts-temporary-data-center-moratorium/"
+      ]
+    ],
+    "im": -2,
+    "iw": "Halts approvals for 12 pending projects until stricter rules are adopted.",
+    "pl": [
+      [
+        "San Jose",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-21T12:52:05.472Z"
+  },
+  {
+    "d": "2026-11-17",
+    "j": "CA",
+    "w": "San Francisco Board of Supervisors",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "San Francisco supervisors extend data center zoning moratorium to next September",
+    "b": "Supervisors unanimously extended the citywide zoning pause on new data centers, giving staff 10 months to study impacts. The mayor has not acted; it takes effect in 10 days unless returned. A veto could be overridden by four-fifths. Vote date approximate (article date).",
+    "s": [
+      [
+        "The San Francisco Standard",
+        "https://sfstandard.com/2026/11/17/data-center-moratorium-september-2027/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Extends an existing pause, delaying new projects about ten more months.",
+    "pl": [
+      [
+        "San Francisco",
+        "city"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-21T12:52:05.590Z"
+  },
+  {
+    "d": "2026-11-17",
+    "j": "CO",
+    "w": "Saguache County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting",
+      "permitting"
+    ],
+    "t": "Saguache County, Colorado, extends data center moratorium through 2027",
+    "b": "Commissioners voted unanimously to extend the pause for up to a year, covering all unincorporated zone districts. The county cannot accept or approve data center applications meanwhile. It could end sooner if code amendments finish first. Vote date approximate (article said Tuesday).",
+    "s": [
+      [
+        "Alamosa News",
+        "https://www.alamosanews.com/article/2469,saguache-county-extends-data-center-moratorium-amid-resident-concerns"
+      ]
+    ],
+    "im": -2,
+    "iw": "Extension keeps all county data center applications frozen up to a year.",
+    "pl": [
+      [
+        "Saguache County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-21T12:52:06.525Z"
+  },
+  {
+    "d": "2026-11-16",
+    "j": "NC",
+    "w": "Pitt County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Pitt County, North Carolina, approves two-year data center moratorium",
+    "b": "Commissioners voted unanimously for a two-year pause, doubling the one-year length staff proposed. They stopped short of a ban because staff said state law does not allow local bans. The pause is tied to work on the county's development ordinance.",
+    "s": [
+      [
+        "The Daily Reflector",
+        "https://www.reflector.com/news/local/pitt-commissioners-approve-two-year-moratorium-on-data-centers/article_3ffa2160-5324-4011-853d-ccb5a15eb1b3.html"
+      ]
+    ],
+    "im": -2,
+    "iw": "Two-year pause blocks new data center development in the county.",
+    "pl": [
+      [
+        "Pitt County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-21T12:52:05.906Z"
+  },
+  {
+    "d": "2026-11-16",
+    "j": "NC",
+    "w": "Halifax County commissioners",
+    "lv": "local",
+    "k": "action",
+    "st": "failed",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Halifax County, North Carolina, moratorium fails on 3–3 tie",
+    "b": "A proposed 12-month pause on data centers and crypto mining failed. Critics said exempting land already zoned industrial made it weak. Staff will draft a plan to develop regulations, and one commissioner proposed a citizen advisory committee.",
+    "s": [
+      [
+        "Roanoke Rapids Daily Herald",
+        "https://www.rrdailyherald.com/news/local/data-center-moratorium-fails-as-halifax-commissioners-debate-future-regulations/article_91ab74d7-efcf-57fb-85d7-ee5dad3432cf.html"
+      ]
+    ],
+    "im": 0,
+    "iw": "No pause, but county will move toward writing data center rules.",
+    "pl": [
+      [
+        "Halifax County",
+        "county"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-21T12:52:06.333Z"
+  }
+]
