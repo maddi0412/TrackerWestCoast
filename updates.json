@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "d": "2026-11-24",
+    "j": "OH",
+    "w": "Warren Township trustees",
+    "lv": "local",
+    "k": "action",
+    "st": "pause",
+    "ty": [
+      "moratorium",
+      "siting"
+    ],
+    "t": "Warren Township trustees vote 3–0 for a six-month data center moratorium",
+    "b": "Trustees paused data center zoning applications for six months, extendable, while the zoning commission reviews rules. No project has applied. The township shares the former Copperweld Steel site with Champion Township, which has its own three-month pause.",
+    "s": [
+      [
+        "Tribune Chronicle",
+        "https://www.tribtoday.com/news/local-news/2026/11/warren-township-places-moratorium-on-data-centers/"
+      ]
+    ],
+    "im": -1,
+    "iw": "Short pause on zoning applications; no pending project affected.",
+    "pl": [
+      [
+        "Warren Township",
+        "township"
+      ]
+    ],
+    "auto": true,
+    "added": "2026-11-28T19:54:57.621Z"
+  }
+]
